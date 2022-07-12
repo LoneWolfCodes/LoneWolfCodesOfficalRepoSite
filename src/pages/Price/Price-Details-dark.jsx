@@ -20,7 +20,7 @@ import Testimonials from "../../components/Testimonials/testimonials";
 import DownloadApp from "../../components/Download-app/download-app";
 import Blogs2 from "../../components/Blogs2/blogs2";
 import MobileAppPricingPlanDark from "./pricing-plan-dark";
-import Footer2 from "../../components/footer2/footer2";
+import Footer2 from "../../components/Footer2/footer2";
 
 
 const MobileAppDark = () => {
