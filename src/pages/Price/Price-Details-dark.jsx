@@ -80,7 +80,7 @@ const MobileAppDark = () => {
         {/* <Testimonials /> */}
         {/* <DownloadApp /> */}
         {/* <Blogs2 /> */}
-        {/* <Footer2 /> */}
+      
         <Footer2 />
 
       </DarkTheme>
