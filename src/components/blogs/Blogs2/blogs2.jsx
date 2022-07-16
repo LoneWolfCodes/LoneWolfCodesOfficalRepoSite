@@ -1,6 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
+import Image from 'next/image';
+
 
 const Blogs2 = () => {
   return (
@@ -24,7 +26,9 @@ const Blogs2 = () => {
           <div className="col-lg-7 offset-lg-1">
             <div className="item wow fadeInUp" data-wow-delay=".3s">
               <div className="img valign">
-                <img src="/img/blog/pexels-photomix-company-230544-min.jpg" alt="" />
+                <Image src="/img/blog/pexels-photomix-company-230544-min.jpg" alt="image"
+                  width={700}
+                  height={500} />
               </div>
               <div className="cont valign">
                 <div>
@@ -55,7 +59,9 @@ const Blogs2 = () => {
             </div>
             <div className="item wow fadeInUp" data-wow-delay=".5s">
               <div className="img valign">
-                <img src="/img/blog/pexels-ekaterina-bolovtsova-7658988-min.jpg" alt="" />
+                <Image src="/img/blog/pexels-ekaterina-bolovtsova-7658988-min.jpg" alt="image"
+                  width={700}
+                  height={500}/>
               </div>
               <div className="cont valign">
                 <div>
@@ -86,7 +92,9 @@ const Blogs2 = () => {
             </div>
             <div className="item wow fadeInUp" data-wow-delay=".3s">
               <div className="img valign">
-                <img src="/img/blog/pexels-pixabay-262508-min.jpg" alt="" />
+                <Image src="/img/blog/pexels-pixabay-262508-min.jpg" alt="image"
+                  width={700}
+                  height={500}/>
               </div>
               <div className="cont valign">
                 <div>

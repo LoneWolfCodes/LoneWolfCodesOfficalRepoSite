@@ -1,4 +1,6 @@
 import React from "react";
+import Image from 'next/image';
+
 
 const Services7 = ({ lightTheme }) => {
   return (
@@ -7,13 +9,14 @@ const Services7 = ({ lightTheme }) => {
         <div className="row">
           <div className="col-lg-5">
             <div className="serv-img md-mb50">
-              <img
+              <Image
                 src={
                   lightTheme
                     ? "/img/mobile-app/app-img/light/s1.png"
                     : "/img/mobile-app/app-img/s1.png"
                 }
                 alt=""
+                layout='fill'
               />
             </div>
           </div>
@@ -146,11 +149,11 @@ const Services7 = ({ lightTheme }) => {
           </div>
           <div className="col-lg-5 offset-lg-1">
             <div className="serv-img">
-              <img src={
+              <Image src={
                   lightTheme
                     ? "/img/mobile-app/app-img/light/s2.png"
                     : "/img/mobile-app/app-img/s2.png"
-                } alt="" />
+                } alt="" layout='fill'/>
             </div>
           </div>
         </div>

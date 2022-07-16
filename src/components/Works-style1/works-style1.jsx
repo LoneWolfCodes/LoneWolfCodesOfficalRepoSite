@@ -2,6 +2,8 @@
 import React from "react";
 import Link from "next/link";
 import tooltipEffect from "../../common/tooltipEffect";
+import Image from 'next/image';
+
 
 const WorksStyle1 = () => {
   React.useEffect(() => {
@@ -23,7 +25,7 @@ const WorksStyle1 = () => {
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <img src="/img/portfolio/portfolio/1/1.jpg" alt="" />
+                    <Image src="/img/portfolio/portfolio/1/1.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -38,7 +40,7 @@ const WorksStyle1 = () => {
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <img src="/img/portfolio/portfolio/2/1.jpg" alt="" />
+                    <Image src="/img/portfolio/portfolio/2/1.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -53,7 +55,7 @@ const WorksStyle1 = () => {
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <img src="/img/portfolio/portfolio/1/2.jpg" alt="" />
+                    <Image src="/img/portfolio/portfolio/1/2.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -68,7 +70,7 @@ const WorksStyle1 = () => {
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <img src="/img/portfolio/portfolio/2/3.jpg" alt="" />
+                    <Image src="/img/portfolio/portfolio/2/3.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -83,7 +85,7 @@ const WorksStyle1 = () => {
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <img src="/img/portfolio/portfolio/1/3.jpg" alt="" />
+                    <Image src="/img/portfolio/portfolio/1/3.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -98,7 +100,7 @@ const WorksStyle1 = () => {
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <img src="/img/portfolio/portfolio/2/4.jpg" alt="" />
+                    <Image src="/img/portfolio/portfolio/2/4.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -113,7 +115,7 @@ const WorksStyle1 = () => {
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <img src="/img/portfolio/portfolio/1/4.jpg" alt="" />
+                    <Image src="/img/portfolio/portfolio/1/4.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -128,7 +130,7 @@ const WorksStyle1 = () => {
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <img src="/img/portfolio/portfolio/2/5.jpg" alt="" />
+                    <Image src="/img/portfolio/portfolio/2/5.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -143,7 +145,7 @@ const WorksStyle1 = () => {
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <img src="/img/portfolio/portfolio/1/5.jpg" alt="" />
+                    <Image src="/img/portfolio/portfolio/1/5.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>

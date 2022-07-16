@@ -2,6 +2,8 @@
 import React from "react";
 import Link from "next/link";
 import initIsotope from "../../common/initIsotope";
+import Image from 'next/image';
+
 
 const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
   React.useEffect(() => {
@@ -68,7 +70,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/portfolio/portfolio/1/1.jpg" alt="image" />
+                    <Image src="/img/portfolio/portfolio/1/1.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -95,7 +97,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/portfolio/portfolio/1/2.jpg" alt="image" />
+                    <Image src="/img/portfolio/portfolio/1/2.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -122,7 +124,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/portfolio/portfolio/1/3.jpg" alt="image" />
+                    <Image src="/img/portfolio/portfolio/1/3.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -149,7 +151,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/portfolio/portfolio/1/4.jpg" alt="image" />
+                    <Image src="/img/portfolio/portfolio/1/4.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -176,7 +178,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/portfolio/portfolio/1/5.jpg" alt="image" />
+                    <Image src="/img/portfolio/portfolio/1/5.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -203,7 +205,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/portfolio/portfolio/1/6.jpg" alt="image" />
+                    <Image src="/img/portfolio/portfolio/1/6.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>

@@ -1,6 +1,8 @@
 import React from "react";
 import ModalVideo from "react-modal-video";
 import "react-modal-video/css/modal-video.css";
+import Image from 'next/image';
+
 
 const VideoWithTeam = () => {
   const [isOpen, setOpen] = React.useState(false);
@@ -61,7 +63,7 @@ const VideoWithTeam = () => {
           <div className="col-lg-3 col-md-6">
             <div className="item text-center md-mb50">
               <div className="img">
-                <img src="/img/mobile-app/team/1.png" alt="" />
+                <Image src="/img/mobile-app/team/1.png" alt="" layout='fill'/>
               </div>
               <div className="info">
                 <h5>Eddie E. Moseley</h5>
@@ -72,7 +74,7 @@ const VideoWithTeam = () => {
           <div className="col-lg-3 col-md-6">
             <div className="item text-center md-mb50">
               <div className="img">
-                <img src="/img/mobile-app/team/2.png" alt="" />
+                <Image src="/img/mobile-app/team/2.png" alt="" layout='fill'/>
               </div>
               <div className="info">
                 <h5>John J. Schreffler</h5>
@@ -83,7 +85,7 @@ const VideoWithTeam = () => {
           <div className="col-lg-3 col-md-6">
             <div className="item text-center sm-mb50">
               <div className="img">
-                <img src="/img/mobile-app/team/3.png" alt="" />
+                <Image src="/img/mobile-app/team/3.png" alt="" layout='fill'/>
               </div>
               <div className="info">
                 <h5>Venessa M. Meister</h5>
@@ -94,7 +96,7 @@ const VideoWithTeam = () => {
           <div className="col-lg-3 col-md-6">
             <div className="item text-center">
               <div className="img">
-                <img src="/img/mobile-app/team/4.png" alt="" />
+                <Image src="/img/mobile-app/team/4.png" alt="" layout='fill'/>
               </div>
               <div className="info">
                 <h5>Joel R. Funkhouser</h5>

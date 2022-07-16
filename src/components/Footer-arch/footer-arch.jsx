@@ -1,6 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
-import appData from '../../data/app.json'
+import appData from '../../data/app.json';
+import Image from 'next/image';
+
 
 const FooterArch = () => {
   return (
@@ -45,7 +47,7 @@ const FooterArch = () => {
               <ul>
                 <li>
                   <div className="img">
-                    <img src="/img/blog/1.jpg" alt="" />
+                    <Image src="/img/blog/1.jpg" alt="" layout='fill'/>
                   </div>
                   <div className="sm-post">
                     <p>
@@ -57,7 +59,7 @@ const FooterArch = () => {
                 </li>
                 <li>
                   <div className="img">
-                    <img src="/img/blog/2.jpg" alt="" />
+                    <Image src="/img/blog/2.jpg" alt="" layout='fill' />
                   </div>
                   <div className="sm-post">
                     <p>
@@ -79,7 +81,7 @@ const FooterArch = () => {
           <div className="col-lg-4">
             <div className="item">
               <div className="logo">
-                <img src={appData.lightLogo} alt="" />
+                <Image src={appData.lightLogo} alt="" layout='fill'/>
               </div>
               <div className="social">
                 <a href="#0">

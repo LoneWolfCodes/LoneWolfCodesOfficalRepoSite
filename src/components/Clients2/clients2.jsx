@@ -2,6 +2,8 @@
 import React from "react";
 import ClientsData from "../../data/sections/clients.json";
 import Split from "../Split";
+import Image from 'next/image';
+
 
 const Clients2 = ({ theme }) => {
   return (
@@ -16,9 +18,9 @@ const Clients2 = ({ theme }) => {
                   <div className="item no-bord wow fadeIn" data-wow-delay=".3s">
                     <div className="img">
                       {theme === "light" ? (
-                        <img src={item.lightImage} alt="" />
+                        <Image src={item.lightImage} alt="" layout='fill' />
                       ) : (
-                        <img src={item.darkImage} alt="" />
+                        <Image src={item.darkImage} alt="" layout='fill' />
                       )}
                       <Split>
                         <a

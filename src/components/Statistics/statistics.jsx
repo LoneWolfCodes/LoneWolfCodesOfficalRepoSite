@@ -1,4 +1,6 @@
 import React from "react";
+import Image from 'next/image';
+
 
 const Statistics = ({ LightTheme }) => {
   return (
@@ -49,13 +51,14 @@ const Statistics = ({ LightTheme }) => {
           </div>
           <div className="col-lg-5 offset-lg-1">
             <div className="serv-img">
-              <img
+              <Image
                 src={
                   LightTheme
                     ? "/img/mobile-app/app-img/light/s2.png"
                     : "/img/mobile-app/app-img/s2.png"
                 }
                 alt=""
+                layout='fill'
               />
             </div>
           </div>

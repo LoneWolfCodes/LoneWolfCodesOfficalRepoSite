@@ -3,6 +3,8 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import Image from 'next/image';
+
 
 class TestimonialsArch extends React.Component {
   constructor(props) {
@@ -91,7 +93,7 @@ class TestimonialsArch extends React.Component {
                     <div className="cont">
                       <div className="author">
                         <div className="img">
-                          <img src="/img/clients/1.jpg" alt="" />
+                          <Image src="/img/clients/1.jpg" alt="" layout='fill'/>
                         </div>
                         <h6 className="author-name color-font">
                           Alex Regelman
@@ -115,7 +117,7 @@ class TestimonialsArch extends React.Component {
                     <div className="cont">
                       <div className="author">
                         <div className="img">
-                          <img src="/img/clients/1.jpg" alt="" />
+                          <Image src="/img/clients/1.jpg" alt="" layout='fill'/>
                         </div>
                         <h6 className="author-name color-font">
                           Alex Regelman
@@ -139,7 +141,7 @@ class TestimonialsArch extends React.Component {
                     <div className="cont">
                       <div className="author">
                         <div className="img">
-                          <img src="/img/clients/1.jpg" alt="" />
+                          <Image src="/img/clients/1.jpg" alt="" layout='fill'/>
                         </div>
                         <h6 className="author-name color-font">
                           Alex Regelman
@@ -163,7 +165,7 @@ class TestimonialsArch extends React.Component {
                     <div className="cont">
                       <div className="author">
                         <div className="img">
-                          <img src="/img/clients/1.jpg" alt="" />
+                          <Image src="/img/clients/1.jpg" alt="" layout='fill'/>
                         </div>
                         <h6 className="author-name color-font">
                           Alex Regelman

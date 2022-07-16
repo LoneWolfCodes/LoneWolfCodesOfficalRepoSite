@@ -2,6 +2,8 @@
 import React from "react";
 import Link from "next/link";
 import initIsotope from "../../common/initIsotope";
+import Image from 'next/image';
+
 
 const WorksStyle3 = () => {
   React.useEffect(() => {
@@ -31,7 +33,7 @@ const WorksStyle3 = () => {
                   href={`/project-details2/project-details2-dark`}
                 >
                   <a className="imago wow">
-                    <img src="/img/portfolio/cr/1.jpg" alt="image" />
+                    <Image src="/img/portfolio/cr/1.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -50,7 +52,7 @@ const WorksStyle3 = () => {
                   href={`/project-details2/project-details2-dark`}
                 >
                   <a className="imago wow">
-                    <img src="/img/portfolio/cr/2.jpg" alt="image" />
+                    <Image src="/img/portfolio/cr/2.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -72,7 +74,7 @@ const WorksStyle3 = () => {
                   href={`/project-details2/project-details2-dark`}
                 >
                   <a className="imago wow">
-                    <img src="/img/portfolio/cr/3.jpg" alt="image" />
+                    <Image src="/img/portfolio/cr/3.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -94,7 +96,7 @@ const WorksStyle3 = () => {
                   href={`/project-details2/project-details2-dark`}
                 >
                   <a className="imago wow">
-                    <img src="/img/portfolio/cr/4.jpg" alt="image" />
+                    <Image src="/img/portfolio/cr/4.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>

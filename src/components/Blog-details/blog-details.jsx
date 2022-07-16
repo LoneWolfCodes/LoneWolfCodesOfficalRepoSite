@@ -3,6 +3,8 @@ import React from "react";
 import Link from "next/link";
 import { Formik, Form, Field } from "formik";
 import { Link as ScrollLink } from "react-scroll";
+import Image from 'next/image';
+
 
 const BlogDetails = ({ theme }) => {
   const messageRef = React.useRef(null);
@@ -24,7 +26,7 @@ const BlogDetails = ({ theme }) => {
           <div className="col-lg-11">
             <div className="post">
               <div className="img">
-                <img src="/img/blog/single.jpg" alt="" />
+                <Image src="/img/blog/single.jpg" alt="" layout='fill' />
               </div>
               <div className="content pt-60">
                 <div className="row justify-content-center">
@@ -97,12 +99,12 @@ const BlogDetails = ({ theme }) => {
                       <div className="row">
                         <div className="col-md-6">
                           <div className="mb-10">
-                            <img src="/img/blog/2.jpg" alt="" />
+                            <Image src="/img/blog/2.jpg" alt="" layout='fill' />
                           </div>
                         </div>
                         <div className="col-md-6">
                           <div className="mb-10">
-                            <img src="/img/blog/3.jpg" alt="" />
+                            <Image src="/img/blog/3.jpg" alt="" layout='fill'/>
                           </div>
                         </div>
                       </div>
@@ -135,7 +137,7 @@ const BlogDetails = ({ theme }) => {
                     </div>
                     <div className="author">
                       <div className="author-img">
-                        <img src="/img/blog/01.jpg" alt="" />
+                        <Image src="/img/blog/01.jpg" alt="" layout='fill' />
                       </div>
                       <div className="info">
                         <h6>
@@ -183,7 +185,7 @@ const BlogDetails = ({ theme }) => {
                 <h5>Comments :</h5>
                 <div className="item">
                   <div className="comment-img">
-                    <img src="/img/blog/01.jpg" alt="" />
+                    <Image src="/img/blog/01.jpg" alt="" layout='fill'/>
                   </div>
                   <div className="info">
                     <h6>
@@ -209,7 +211,7 @@ const BlogDetails = ({ theme }) => {
                 </div>
                 <div className="item relped">
                   <div className="comment-img">
-                    <img src="/img/blog/01.jpg" alt="" />
+                    <Image src="/img/blog/01.jpg" alt="" layout='fill' />
                   </div>
                   <div className="info">
                     <h6>
@@ -235,7 +237,7 @@ const BlogDetails = ({ theme }) => {
                 </div>
                 <div className="item">
                   <div className="comment-img">
-                    <img src="/img/blog/01.jpg" alt="" />
+                    <Image src="/img/blog/01.jpg" alt="" layout='fill' />
                   </div>
                   <div className="info">
                     <h6>

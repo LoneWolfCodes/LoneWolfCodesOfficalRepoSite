@@ -10,6 +10,8 @@ import Link from "next/link";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
+import Image from 'next/image';
+
 SwiperCore.use([Autoplay, Pagination, Navigation]);
 
 const Works3 = () => {
@@ -94,7 +96,9 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/pikwizard-coffee-writing-computer-blogging.jpg" alt="" />
+                          <Image 
+        width={600}
+        height={400}src="/img/portfolio/pikwizard-coffee-writing-computer-blogging.jpg" alt="" />
                         </span>
                       </div>
                       <div className="cont ">
@@ -127,7 +131,9 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/pikwizard-smiling-senior-man-paying-bills-online-on-laptop-in-kitchen.jpg" alt="" />
+                          <Image 
+        width={600}
+        height={400}src="/img/portfolio/pikwizard-smiling-senior-man-paying-bills-online-on-laptop-in-kitchen.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont">
@@ -162,7 +168,9 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/pikwizard-hand-using-smartphone-with-graphics.jpg" alt="" />
+                          <Image 
+        width={600}
+        height={400}src="/img/portfolio/pikwizard-hand-using-smartphone-with-graphics.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont grey-font">
@@ -198,7 +206,9 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/pikwizard-city-urban-landscape.jpg" alt="" />
+                          <Image 
+        width={600}
+        height={400}src="/img/portfolio/pikwizard-city-urban-landscape.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont ">
@@ -232,7 +242,9 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/pikwizard-happy-diverse-female-creative-colleagues-holding-documents,-cup-of-coffee-and-talking-in-elevator.jpg" alt="" />
+                          <Image 
+        width={600}
+        height={400}src="/img/portfolio/pikwizard-happy-diverse-female-creative-colleagues-holding-documents,-cup-of-coffee-and-talking-in-elevator.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont">
@@ -268,7 +280,9 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/pikwizard-customer-service-executive-working.jpg" alt="" />
+                          <Image 
+        width={600}
+        height={400}src="/img/portfolio/pikwizard-customer-service-executive-working.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont">
@@ -303,7 +317,9 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/pikwizard-alarm-clock.jpeg" alt="" />
+                          <Image 
+        width={600}
+        height={400}src="/img/portfolio/pikwizard-alarm-clock.jpeg" alt=""/>
                         </span>
                       </div>
                       <div className="cont">
@@ -338,7 +354,9 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/pikwizard-businessman-showing-project-plan-on-laptop-to-multiracial-male-and-female-colleagues-in-office.jpg" alt="" />
+                          <Image 
+        width={600}
+        height={400}src="/img/portfolio/pikwizard-businessman-showing-project-plan-on-laptop-to-multiracial-male-and-female-colleagues-in-office.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont">
@@ -373,7 +391,9 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/pikwizard-man-using-smart-watch-for-express-pay.jpg" alt="" />
+                          <Image 
+        width={600}
+        height={400}src="/img/portfolio/pikwizard-man-using-smart-watch-for-express-pay.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont">
@@ -409,7 +429,9 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/6048119cc.jpg" alt="" />
+                          <Image 
+        width={600}
+        height={400}src="/img/portfolio/6048119cc.jpg" alt=""/>
                         </span>
                       </div> 
                       <div className="cont">

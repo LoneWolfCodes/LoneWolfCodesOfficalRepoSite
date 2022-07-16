@@ -4,6 +4,7 @@ import Split from "../Split";
 import Link from "next/link";
 import AboutUs3date from "../../data/sections/about-us3.json";
 import { thumparallax, thumparallaxDown } from "../../common/thumparallax";
+import Image from 'next/image';
 
 const AboutUs3 = () => {
   React.useEffect(() => {
@@ -25,7 +26,9 @@ const AboutUs3 = () => {
                       className="imgone big-bord wow fadeInDown"
                       data-wow-delay=".8s"
                     >
-                      <img
+                      <Image 
+                        width={500}
+                        height={700}
                         className="thumparallax-down"
                         src={AboutUs3date.image1}
                         alt=""
@@ -43,7 +46,9 @@ const AboutUs3 = () => {
                       className="imgtwo big-bord wow fadeInUp"
                       data-wow-delay=".6s"
                     >
-                      <img
+                      <Image 
+                        width={500}
+                        height={700}
                         className="thumparallax"
                         src={AboutUs3date.image2}
                         alt=""

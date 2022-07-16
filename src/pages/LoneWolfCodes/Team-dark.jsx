@@ -44,16 +44,6 @@ const Homepage = () => {
       <AboutCaleb/>
       {/* <WorksStyle4 /> */}
       <AboutUs5 />
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-
       <AboutCaleb2/>
       <FullTestimonials showHead />
       <Blogs2 />

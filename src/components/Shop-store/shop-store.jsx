@@ -1,4 +1,6 @@
 import React from "react";
+import Image from 'next/image';
+
 
 const ShopStore = () => {
   return (
@@ -29,7 +31,7 @@ const ShopStore = () => {
         <div className="col-lg-4 col-md-6">
           <div className="item">
             <div className="img">
-              <img src="/img/mobile-app/shop/1.jpg" alt="" />
+              <Image src="/img/mobile-app/shop/1.jpg" alt="" layout='fill'/>
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
@@ -46,7 +48,7 @@ const ShopStore = () => {
         <div className="col-lg-4 col-md-6">
           <div className="item">
             <div className="img">
-              <img src="/img/mobile-app/shop/2.jpg" alt="" />
+              <Image src="/img/mobile-app/shop/2.jpg" alt="" layout='fill'/>
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
@@ -63,7 +65,7 @@ const ShopStore = () => {
         <div className="col-lg-4 col-md-6">
           <div className="item">
             <div className="img">
-              <img src="/img/mobile-app/shop/3.jpg" alt="" />
+              <Image src="/img/mobile-app/shop/3.jpg" alt="" layout='fill'/>
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
@@ -80,7 +82,7 @@ const ShopStore = () => {
         <div className="col-lg-4 col-md-6">
           <div className="item">
             <div className="img">
-              <img src="/img/mobile-app/shop/4.jpg" alt="" />
+              <Image src="/img/mobile-app/shop/4.jpg" alt="" layout='fill'/>
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
@@ -97,7 +99,7 @@ const ShopStore = () => {
         <div className="col-lg-4 col-md-6">
           <div className="item">
             <div className="img">
-              <img src="/img/mobile-app/shop/5.jpg" alt="" />
+              <Image src="/img/mobile-app/shop/5.jpg" alt="" layout='fill'/>
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
@@ -114,7 +116,7 @@ const ShopStore = () => {
         <div className="col-lg-4 col-md-6">
           <div className="item">
             <div className="img">
-              <img src="/img/mobile-app/shop/6.jpg" alt="" />
+              <Image src="/img/mobile-app/shop/6.jpg" alt="" layout='fill'/>
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
@@ -131,7 +133,7 @@ const ShopStore = () => {
         <div className="col-lg-4 col-md-6">
           <div className="item">
             <div className="img">
-              <img src="/img/mobile-app/shop/7.jpg" alt="" />
+              <Image src="/img/mobile-app/shop/7.jpg" alt="" layout='fill'/>
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
@@ -148,7 +150,7 @@ const ShopStore = () => {
         <div className="col-lg-4 col-md-6">
           <div className="item">
             <div className="img">
-              <img src="/img/mobile-app/shop/8.jpg" alt="" />
+              <Image src="/img/mobile-app/shop/8.jpg" alt="" layout='fill'/>
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">
@@ -165,7 +167,7 @@ const ShopStore = () => {
         <div className="col-lg-4 col-md-6">
           <div className="item">
             <div className="img">
-              <img src="/img/mobile-app/shop/9.jpg" alt="" />
+              <Image src="/img/mobile-app/shop/9.jpg" alt="" layout='fill'/>
               <span className="tag">Apps</span>
               <div className="add">
                 <a href="#0">

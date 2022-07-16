@@ -3,6 +3,8 @@
 import React from "react";
 import Link from "next/link";
 import DarkTheme from "../../layouts/Dark";
+import Image from 'next/image';
+
 
 const BlogList = ({ blogs }) => {
   return (
@@ -20,7 +22,11 @@ const BlogList = ({ blogs }) => {
                   <div className="row">
                     <div className="col-lg-6 valign">
                       <div className="img md-mb50">
-                        <img src={blogItem.image} alt="" />
+                      <Image 
+                        width={600}
+                        height={400}
+                         src={blogItem.image} alt="" 
+                        />
                       </div>
                     </div>
                     <div className="col-lg-6 valign">

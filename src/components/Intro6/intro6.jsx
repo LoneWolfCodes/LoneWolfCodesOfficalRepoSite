@@ -1,4 +1,6 @@
 import React from "react";
+import Image from 'next/image';
+
 
 const Intro6 = () => {
   return (
@@ -43,7 +45,7 @@ const Intro6 = () => {
 
           <div className="col-lg-5 offset-lg-1">
             <div className="img">
-              <img src="/img/mobile-app/toppng.com-credit-card-3616x2362-min.png" alt="" />
+              <Image src="/img/mobile-app/toppng.com-credit-card-3616x2362-min.png" alt="" layout='fill' />
             </div>
           </div>
         </div>

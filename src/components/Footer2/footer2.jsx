@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 // import appData from "../../data/app.json";
 import DarkTheme from "../../layouts/Dark";
+import Image  from 'next/image';
 
 import Head from "next/head";
 const Footer2 = () => {

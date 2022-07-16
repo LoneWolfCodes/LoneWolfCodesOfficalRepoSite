@@ -1,5 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
+import Image from 'next/image';
+
 
 const Intro3 = () => {
   return (
@@ -8,7 +10,7 @@ const Intro3 = () => {
         <div className="row">
           <div className="col-lg-5">
             <div className="img">
-              <img src="/img/slid/002.jpg" alt="" />
+              <Image src="/img/slid/002.jpg" alt="" layout='fill' />
             </div>
           </div>
           <div className="col-lg-7 valign">

@@ -2,6 +2,8 @@
 import React from "react";
 import Link from "next/link";
 import initIsotope from "../../common/initIsotope";
+import Image from 'next/image';
+
 
 const WorksStyle4 = () => {
   React.useEffect(() => {
@@ -41,7 +43,7 @@ const WorksStyle4 = () => {
             </div>
           </div>
 
-          <div className="gallery full-width">
+          <div className="filter wow fadeIn gallery full-width">
             <div
               className="col-md-6 items ecom lg-mr wow fadeInUp"
               data-wow-delay=".4s"
@@ -53,7 +55,9 @@ const WorksStyle4 = () => {
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="rota">
-                    <img src="/img/portfolio/freelancer/9dcad93f-e286-43cb-81d7-6c620ce729a6.webp" alt="image" />
+                    <Image src="/img/portfolio/freelancer/9dcad93f-e286-43cb-81d7-6c620ce729a6.webp" alt=""
+                  width={1000}
+                  height={1000}/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -82,7 +86,9 @@ const WorksStyle4 = () => {
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="rota">
-                    <img src="/img/portfolio/freelancer/62429cac-65ec-424a-bf8d-2fb5b2c6ba76.webp" alt="image" />
+                    <Image src="/img/portfolio/freelancer/62429cac-65ec-424a-bf8d-2fb5b2c6ba76.webp" alt=""
+                  width={1000}
+                  height={1000}/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -111,7 +117,9 @@ const WorksStyle4 = () => {
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="rota">
-                    <img src="/img/portfolio/freelancer/1596fae6-5733-400e-809f-d496b54602a0.webp" alt="image" />
+                    <Image src="/img/portfolio/freelancer/1596fae6-5733-400e-809f-d496b54602a0.webp" alt=""
+                  width={1000}
+                  height={1000}/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -140,7 +148,9 @@ const WorksStyle4 = () => {
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="rota">
-                    <img src="/img/portfolio/freelancer/2887c42b-744c-4304-8fdc-38b2b4f356b2.webp" alt="image" />
+                    <Image src="/img/portfolio/freelancer/2887c42b-744c-4304-8fdc-38b2b4f356b2.webp" alt=""
+                  width={1000}
+                  height={1000}/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -169,7 +179,9 @@ const WorksStyle4 = () => {
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="rota">
-                    <img src="/img/portfolio/freelancer/716c5431-9995-4a92-a439-85425a016501.webp" alt="image" />
+                    <Image src="/img/portfolio/freelancer/716c5431-9995-4a92-a439-85425a016501.webp" alt=""
+                  width={1000}
+                  height={1000}/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -198,7 +210,9 @@ const WorksStyle4 = () => {
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="rota">
-                    <img src="/img/portfolio/freelancer/d847951e-d8e6-4f7c-8dac-3cdad6321a99.webp " alt="image" />
+                    <Image src="/img/portfolio/freelancer/d847951e-d8e6-4f7c-8dac-3cdad6321a99.webp " alt=""
+                  width={1000}
+                  height={1000}/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -227,7 +241,9 @@ const WorksStyle4 = () => {
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="rota">
-                    <img src="/img/portfolio/freelancer/d980ac6b-24a4-4d08-8c78-6a1236f95230.webp" alt="image" />
+                    <Image src="/img/portfolio/freelancer/d980ac6b-24a4-4d08-8c78-6a1236f95230.webp" alt=""
+                  width={1000}
+                  height={1000} />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -256,7 +272,9 @@ const WorksStyle4 = () => {
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="rota">
-                    <img src="/img/portfolio/freelancer/da5074de-5c38-4d93-a796-a0491cfb8a10.webp" alt="image" />
+                    <Image src="/img/portfolio/freelancer/da5074de-5c38-4d93-a796-a0491cfb8a10.webp" alt=""
+                  width={1000}
+                  height={1000}/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -285,7 +303,9 @@ const WorksStyle4 = () => {
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="rota">
-                    <img src="/img/portfolio/freelancer/23f6c309-b426-4e9d-9c7b-164b43bb224c.webp" alt="image" />
+                    <Image src="/img/portfolio/freelancer/23f6c309-b426-4e9d-9c7b-164b43bb224c.webp" alt=""
+                  width={1000}
+                  height={1000}/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -314,7 +334,9 @@ const WorksStyle4 = () => {
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="rota">
-                    <img src="/img/portfolio/freelancer/f33310a6-2800-4a20-ac71-ea59e5c8f656.webp" alt="image" />
+                    <Image src="/img/portfolio/freelancer/f33310a6-2800-4a20-ac71-ea59e5c8f656.webp" alt=""
+                  width={1000}
+                  height={1000}/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>

@@ -2,6 +2,8 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
+import Image from 'next/image';
+
 
 const BlogGrid = ({ blogs }) => {
   return (
@@ -13,7 +15,7 @@ const BlogGrid = ({ blogs }) => {
               <div className="col-lg-4" key={blogItem.id}>
                 <div className="item mb-80 wow fadeInUp" data-wow-delay=".3s">
                   <div className="img">
-                    <img src={blogItem.image} alt="" />
+                    <Image src={blogItem.image} alt="" layout='fill' />
                   </div>
                   <div className="cont">
                     <div>

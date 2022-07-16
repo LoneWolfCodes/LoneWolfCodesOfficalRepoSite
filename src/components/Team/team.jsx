@@ -3,6 +3,8 @@ import React from "react";
 import teamSkillsProgress from "../../common/teamSkillsProgress";
 import tooltipEffect from "../../common/tooltipEffect";
 import teamsDate from "../../data/sections/team.json";
+import Image from 'next/image';
+
 
 const Team = () => {
   React.useEffect(() => {
@@ -58,7 +60,7 @@ const Team = () => {
                           data-tooltip-tit={team.title}
                           data-tooltip-sub={team.sub}
                         >
-                          <img src={team.image} alt="" className="imago wow" />
+                          <Image src={team.image} alt="" className="imago wow" layout='fill'/>
                         </div>
                       </div>
                     ))}
@@ -77,7 +79,7 @@ const Team = () => {
                           data-tooltip-tit={team.title}
                           data-tooltip-sub={team.sub}
                         >
-                          <img src={team.image} alt="" className="imago wow" />
+                          <Image src={team.image} alt="" className="imago wow" layout='fill'/>
                         </div>
                       </div>
                     ))}

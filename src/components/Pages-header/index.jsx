@@ -1,5 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
-import React from 'react'
+import React from 'react';
+import Image from 'next/image';
+
 
 const PagesHeader = () => {
   return (
@@ -14,8 +16,10 @@ const PagesHeader = () => {
             </div>
           </div>
           <div className="col-lg-10">
-            <div className="img">
-              <img src="/img/slid/marvin-meyer-SYTO3xs06fU-unsplash-min-min.jpg" alt="" />
+            <div className="img row justify-content-center">
+              <Image src="/img/slid/marvin-meyer-SYTO3xs06fU-unsplash-min-min.jpg" alt=""
+                  width={1000}
+                  height={500} />
             </div>
           </div>
         </div>

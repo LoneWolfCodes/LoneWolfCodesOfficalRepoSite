@@ -1,6 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Link from "next/link";
+import Image from 'next/image';
+
 
 const BlogStanderd = ({ blogs }) => {
   return (
@@ -19,7 +21,10 @@ const BlogStanderd = ({ blogs }) => {
                   <div className="img">
                     <Link href={`#0`}>
                       <a>
-                        <img src={blogItem.image} alt="" />
+                        <Image src={blogItem.image} alt="" 
+                        width={1000}
+                        height={500} />
+                        
                       </a>
                     </Link>
                   </div>

@@ -1,4 +1,6 @@
 import React from "react";
+import Image from 'next/image';
+
 
 const DownloadApp = () => {
   return (
@@ -10,7 +12,7 @@ const DownloadApp = () => {
               <div className="row">
                 <div className="col-lg-6">
                   <div className="img">
-                    <img src="/img/mobile-app/call-img.png" alt="" />
+                    <Image src="/img/mobile-app/call-img.png" alt="" layout='fill' />
                   </div>
                 </div>
                 <div className="col-lg-6 valign">
@@ -48,9 +50,10 @@ const DownloadApp = () => {
                     </div>
 
                     <div className="shape-light">
-                      <img
+                      <Image
                         src="/img/mobile-app/shapes/shape-light.png"
                         alt=""
+                        layout='fill'
                       />
                     </div>
                   </div>

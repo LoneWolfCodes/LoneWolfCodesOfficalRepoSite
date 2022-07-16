@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import SwiperCore, { Pagination, Parallax } from "swiper";
+import Image from 'next/image';
+
 
 import "swiper/css";
 import "swiper/css/pagination";
@@ -61,7 +63,7 @@ const Testimonials = () => {
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
                       <div className="icon mb-50">
-                        <img src="/img/mobile-app/qoute.png" alt="" />
+                        <Image src="/img/mobile-app/qoute.png" alt="" layout='fill'/>
                       </div>
                       <div className="text">
                         <p>
@@ -73,7 +75,7 @@ const Testimonials = () => {
                       </div>
                       <div className="info">
                         <div className="img">
-                          <img src="/img/mobile-app/clients/1.png" alt="" />
+                          <Image src="/img/mobile-app/clients/1.png" alt="" layout='fill'/>
                         </div>
                         <div className="cont">
                           <h6 className="mb-10">William Glenn</h6>
@@ -85,7 +87,7 @@ const Testimonials = () => {
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
                       <div className="icon mb-50">
-                        <img src="/img/mobile-app/qoute.png" alt="" />
+                        <Image src="/img/mobile-app/qoute.png" alt="" layout='fill' />
                       </div>
                       <div className="text">
                         <p>
@@ -97,7 +99,7 @@ const Testimonials = () => {
                       </div>
                       <div className="info">
                         <div className="img">
-                          <img src="/img/mobile-app/clients/2.png" alt="" />
+                          <Image src="/img/mobile-app/clients/2.png" alt="" layout='fill' />
                         </div>
                         <div className="cont">
                           <h6 className="mb-10">John R. Gordon</h6>
@@ -109,7 +111,7 @@ const Testimonials = () => {
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
                       <div className="icon mb-50">
-                        <img src="/img/mobile-app/qoute.png" alt="" />
+                        <Image src="/img/mobile-app/qoute.png" alt="" layout='fill' />
                       </div>
                       <div className="text">
                         <p>
@@ -121,7 +123,7 @@ const Testimonials = () => {
                       </div>
                       <div className="info">
                         <div className="img">
-                          <img src="/img/mobile-app/clients/3.png" alt="" />
+                          <Image src="/img/mobile-app/clients/3.png" alt="" layout='fill' />
                         </div>
                         <div className="cont">
                           <h6 className="mb-10">Josesr B. Rink</h6>
@@ -133,7 +135,7 @@ const Testimonials = () => {
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
                       <div className="icon mb-50">
-                        <img src="/img/mobile-app/qoute.png" alt="" />
+                        <Image src="/img/mobile-app/qoute.png" alt="" layout='fill' />
                       </div>
                       <div className="text">
                         <p>
@@ -145,7 +147,7 @@ const Testimonials = () => {
                       </div>
                       <div className="info">
                         <div className="img">
-                          <img src="/img/mobile-app/clients/1.png" alt="" />
+                          <Image src="/img/mobile-app/clients/1.png" alt="" layout='fill'/>
                         </div>
                         <div className="cont">
                           <h6 className="mb-10">William Glenn</h6>

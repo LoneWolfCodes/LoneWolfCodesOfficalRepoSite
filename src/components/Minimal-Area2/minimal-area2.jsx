@@ -3,6 +3,8 @@ import React from "react";
 import Split from "../Split";
 import Link from "next/link";
 import { thumparallaxDown } from "../../common/thumparallax";
+import Image from 'next/image';
+
 
 const MinimalArea2 = () => {
   React.useEffect(() => {
@@ -16,10 +18,14 @@ const MinimalArea2 = () => {
         <div className="row">
           <div className="col-lg-6">
             <div className="img">
-              <img
+            <Image 
+        width={600}
+        height={400}
+
                 className="thumparallax-down"
                 src="/img/efe-kurnaz-RnCPiXixooY-unsplash-min.jpg"
                 alt=""
+                
               />
             </div>
           </div>

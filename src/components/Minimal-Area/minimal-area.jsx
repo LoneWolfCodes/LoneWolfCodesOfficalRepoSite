@@ -2,6 +2,8 @@
 import React from "react";
 import cardMouseEffect from "../../common/cardMouseEffect";
 import { thumparallaxDown } from "../../common/thumparallax";
+import Image from 'next/image';
+
 
 const MinimalArea = () => {
   React.useEffect(() => {
@@ -16,10 +18,12 @@ const MinimalArea = () => {
         <div className="row">
           <div className="col-lg-6">
             <div className="img">
-              <img
+              <Image
                 className="thumparallax-down"
                 src="/img/cut-in-a-moment-QzcynTZmOcw-unsplash-min-min.jpg"
                 alt=""
+                  width={400}
+                  height={500}
               />
             </div>
           </div>

@@ -1,5 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
+import Image from 'next/image';
+
 
 const Team3 = () => {
   return (
@@ -20,7 +22,7 @@ const Team3 = () => {
           <div className="col-lg-4">
             <div className="item cir md-mb50">
               <div className="img">
-                <img src="/img/team/a1.jpg" alt="" />
+                <Image src="/img/team/a1.jpg" alt="" layout='fill' />
                 <div id="circle1">
                   <svg
                     version="1.1"
@@ -59,7 +61,7 @@ const Team3 = () => {
           <div className="col-lg-4">
             <div className="item cir md-mb50">
               <div className="img">
-                <img src="/img/team/a2.jpg" alt="" />
+                <Image src="/img/team/a2.jpg" alt="" layout='fill' />
                 <div id="circle2">
                   <svg
                     version="1.1"
@@ -98,7 +100,7 @@ const Team3 = () => {
           <div className="col-lg-4">
             <div className="item cir sm-mb50">
               <div className="img">
-                <img src="/img/team/a3.jpg" alt="" />
+                <Image src="/img/team/a3.jpg" alt="" layout='fill'/>
                 <div id="circle3">
                   <svg
                     version="1.1"

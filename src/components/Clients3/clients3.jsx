@@ -1,4 +1,6 @@
 import React from "react";
+import Image from 'next/image';
+
 
 const Clients3 = () => {
   return (
@@ -9,13 +11,14 @@ const Clients3 = () => {
             <div className="col-lg-6 col-md-9">
               <div className="text">
                 <h2>
-                  We’ve
+                  We have
                   <span>
                     154+
-                    <img
+                    <Image 
                       src="/img/mobile-app/shapes/border.png"
                       alt=""
                       className="bord-gr"
+                      layout='fill'
                     />
                   </span>
                   Global Partners
@@ -32,15 +35,17 @@ const Clients3 = () => {
             <div className="item">
               <div className="img">
                 <a href="#0">
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l1.png"
                     alt=""
                     className="front"
+                    layout='fill'
                   />
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l1.png"
                     alt=""
                     className="back"
+                    layout='fill'
                   />
                 </a>
               </div>
@@ -50,15 +55,17 @@ const Clients3 = () => {
             <div className="item">
               <div className="img">
                 <a href="#0">
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l2.png"
                     alt=""
                     className="front"
+                    layout='fill'
                   />
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l2.png"
                     alt=""
                     className="back"
+                    layout='fill'
                   />
                 </a>
               </div>
@@ -68,12 +75,13 @@ const Clients3 = () => {
             <div className="item">
               <div className="img">
                 <a href="#0">
-                  <img
+                  <Image 
                     src="/img/mobile-app/brands/l3.png"
                     alt=""
                     className="front"
+                    layout='fill'
                   />
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l3.png"
                     alt=""
                     className="back"
@@ -86,15 +94,17 @@ const Clients3 = () => {
             <div className="item">
               <div className="img">
                 <a href="#0">
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l4.png"
                     alt=""
                     className="front"
+                    layout='fill'
                   />
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l4.png"
                     alt=""
                     className="back"
+                    layout='fill'
                   />
                 </a>
               </div>
@@ -104,15 +114,17 @@ const Clients3 = () => {
             <div className="item">
               <div className="img">
                 <a href="#0">
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l5.png"
                     alt=""
                     className="front"
+                    layout='fill'
                   />
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l5.png"
                     alt=""
                     className="back"
+                    layout='fill'
                   />
                 </a>
               </div>
@@ -124,15 +136,17 @@ const Clients3 = () => {
             <div className="item">
               <div className="img">
                 <a href="#0">
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l5.png"
                     alt=""
                     className="front"
+                    layout='fill'
                   />
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l5.png"
                     alt=""
                     className="back"
+                    layout='fill'
                   />
                 </a>
               </div>
@@ -142,15 +156,17 @@ const Clients3 = () => {
             <div className="item">
               <div className="img">
                 <a href="#0">
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l4.png"
                     alt=""
                     className="front"
+                    layout='fill'
                   />
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l4.png"
                     alt=""
                     className="back"
+                    layout='fill'
                   />
                 </a>
               </div>
@@ -160,15 +176,17 @@ const Clients3 = () => {
             <div className="item">
               <div className="img">
                 <a href="#0">
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l3.png"
                     alt=""
                     className="front"
+                    layout='fill'
                   />
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l3.png"
                     alt=""
                     className="back"
+                    layout='fill'
                   />
                 </a>
               </div>
@@ -178,15 +196,17 @@ const Clients3 = () => {
             <div className="item">
               <div className="img">
                 <a href="#0">
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l2.png"
                     alt=""
                     className="front"
+                    layout='fill'
                   />
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l2.png"
                     alt=""
                     className="back"
+                    layout='fill'
                   />
                 </a>
               </div>
@@ -196,15 +216,17 @@ const Clients3 = () => {
             <div className="item">
               <div className="img">
                 <a href="#0">
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l1.png"
                     alt=""
                     className="front"
+                    layout='fill'
                   />
-                  <img
+                  <Image
                     src="/img/mobile-app/brands/l1.png"
                     alt=""
                     className="back"
+                    layout='fill'
                   />
                 </a>
               </div>

@@ -2,6 +2,8 @@
 import React from 'react'
 import ModalVideo from "react-modal-video";
 import "react-modal-video/css/modal-video.css";
+import Image from 'next/image';
+
 
 const AboutUs4 = () => {
       console.clear();
@@ -11,7 +13,7 @@ const AboutUs4 = () => {
         <div className="container-fluid">
           <div className="row">
             <div className="col-lg-6 img md-mb50">
-              <img src="/img/intro/4.jpg" alt="" />
+              <Image src="/img/intro/4.jpg" alt="" layout='fill' />
             </div>
             <div className="col-lg-4 valign">
               <div className="cont full-width">

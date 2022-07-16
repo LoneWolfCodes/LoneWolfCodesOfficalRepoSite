@@ -15,6 +15,8 @@ import "swiper/css/navigation";
 import "swiper/css/effect-fade";
 import { thumparallax } from "../../../common/thumparallax";
 import removeSlashFromPagination from "../../../common/removeSlashpagination";
+import Image from 'next/image';
+
 
 SwiperCore.use([Navigation, Pagination, Parallax, EffectFade]);
 
@@ -91,10 +93,11 @@ const Blogs4 = () => {
                   <SwiperSlide className="swiper-slide">
                     <div className="item wow fadeIn" data-wow-delay=".3s">
                       <div className="img">
-                        <img
+                        <Image
                           className="thumparallax"
                           src="/img/blog/1.jpg"
                           alt=""
+                          layout='fill'
                         />
                       </div>
                     </div>
@@ -102,10 +105,11 @@ const Blogs4 = () => {
                   <SwiperSlide className="swiper-slide">
                     <div className="item wow fadeIn" data-wow-delay=".3s">
                       <div className="img">
-                        <img
+                        <Image
                           className="thumparallax"
                           src="/img/blog/2.jpg"
                           alt=""
+                          layout='fill'
                         />
                       </div>
                     </div>
@@ -113,10 +117,11 @@ const Blogs4 = () => {
                   <SwiperSlide className="swiper-slide">
                     <div className="item wow fadeIn" data-wow-delay=".3s">
                       <div className="img">
-                        <img
+                        <Image
                           className="thumparallax"
                           src="/img/blog/3.jpg"
                           alt=""
+                          layout='fill'
                         />
                       </div>
                     </div>

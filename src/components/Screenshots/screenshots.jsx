@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import SwiperCore, { Pagination, Parallax } from "swiper";
+import Image from 'next/image';
+
 
 import "swiper/css";
 import "swiper/css/pagination";
@@ -60,42 +62,42 @@ const Screenshots = () => {
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
                       <div className="img">
-                        <img src="/img/mobile-app/screenshots/1.png" alt="" />
+                        <Image src="/img/mobile-app/screenshots/1.png" alt="" layout='fill'/>
                       </div>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
                       <div className="img">
-                        <img src="/img/mobile-app/screenshots/2.png" alt="" />
+                        <Image src="/img/mobile-app/screenshots/2.png" alt="" layout='fill'/>
                       </div>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
                       <div className="img">
-                        <img src="/img/mobile-app/screenshots/3.png" alt="" />
+                        <Image src="/img/mobile-app/screenshots/3.png" alt="" layout='fill'/>
                       </div>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
                       <div className="img">
-                        <img src="/img/mobile-app/screenshots/4.png" alt="" />
+                        <Image src="/img/mobile-app/screenshots/4.png" alt="" layout='fill'/>
                       </div>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
                       <div className="img">
-                        <img src="/img/mobile-app/screenshots/5.png" alt="" />
+                        <Image src="/img/mobile-app/screenshots/5.png" alt="" layout='fill'/>
                       </div>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
                       <div className="img">
-                        <img src="/img/mobile-app/screenshots/3.png" alt="" />
+                        <Image src="/img/mobile-app/screenshots/3.png" alt="" layout='fill'/>
                       </div>
                     </div>
                   </SwiperSlide>

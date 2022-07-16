@@ -1,6 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import Typewriter from "typewriter-effect";
+import Image from 'next/image';
+
 
 const FreelancreIntro = () => {
   return (
@@ -9,7 +11,7 @@ const FreelancreIntro = () => {
         <div className="row">
           <div className="col-lg-4">
             <div className="img">
-              <img src="/img/team/1468708_553574004718681_345517755_n.jpg" alt="" />
+              <Image src="/img/team/1468708_553574004718681_345517755_n.jpg" alt="" layout='fill'/>
             </div>
           </div>
           <div className="col-lg-8 valign">

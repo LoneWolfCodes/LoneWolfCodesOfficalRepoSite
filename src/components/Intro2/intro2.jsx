@@ -1,6 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import React from 'react'
 import Link from 'next/link'
+import Image from 'next/image';
+
 
 const Intro2 = ({ sliderRef }) => {
   return (
@@ -27,7 +29,9 @@ const Intro2 = ({ sliderRef }) => {
           </div>
           <div className="col-lg-6">
             <div className="img">
-              <img src="/img/slid/pikwizard-businessman-holding-an-umbrella-against-business-plan-sketch-on-blackboard.jpg" alt="" />
+              <Image src="/img/slid/pikwizard-businessman-holding-an-umbrella-against-business-plan-sketch-on-blackboard.jpg" alt="image"
+                  width={700}
+                  height={500}/>
             </div>
           </div>
         </div>

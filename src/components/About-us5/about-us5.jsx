@@ -1,6 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
 import aboutSkillsProgress from "../../common/aboutSkillsProgress";
+import Image from 'next/image';
+
 
 const AboutUs5 = () => {
   React.useEffect(() => {
@@ -25,6 +27,7 @@ const AboutUs5 = () => {
         <br/>
         <br/>
         <br/>
+        <br/>
     <br/>
     <br/>
     <br/>
@@ -38,14 +41,16 @@ const AboutUs5 = () => {
     <br/>
     <br/>
     <br/>
+    {/* <br/>
     <br/>
     <br/>
     <br/>
-    <br/>
-    <br/>
-    <br/>
+    <br/> */}
+    
           <div className="expad col-lg-6 img md-mb50">
-          <img src="/img/intro/62659d6163b917c18eabf40c_unnamed.jpg" alt="" />
+          <Image src="/img/intro/62659d6163b917c18eabf40c_unnamed.jpg" alt="image"
+        width={500}
+        height={500}/>
           </div>
           <div className="col-lg-5 valign">
             <div className="cont full-width">

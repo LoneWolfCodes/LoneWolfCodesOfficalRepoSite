@@ -1,6 +1,8 @@
 import React from "react";
 import Link from "next/link";
 import initIsotope from "../../common/initIsotope";
+import Image from 'next/image';
+
 
 const Works4 = () => {
   React.useEffect(() => {
@@ -31,7 +33,7 @@ const Works4 = () => {
               <div className="item-img">
                 <Link href="/project-details2/project-details2-dark">
                   <a className="imago wow animated">
-                    <img src="/img/mobile-app/works/1.jpg" alt="image" />
+                    <Image src="/img/mobile-app/works/1.jpg" alt="image" layout='fill' />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -52,7 +54,7 @@ const Works4 = () => {
               <div className="item-img">
                 <Link href="/project-details2/project-details2-dark">
                   <a className="imago wow animated">
-                    <img src="/img/mobile-app/works/2.jpg" alt="image" />
+                    <Image src="/img/mobile-app/works/2.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -73,7 +75,7 @@ const Works4 = () => {
               <div className="item-img">
                 <Link href="/project-details2/project-details2-dark">
                   <a className="imago wow animated">
-                    <img src="/img/mobile-app/works/5.jpg" alt="image" />
+                    <Image src="/img/mobile-app/works/5.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -94,7 +96,7 @@ const Works4 = () => {
               <div className="item-img">
                 <Link href="/project-details2/project-details2-dark">
                   <a className="imago wow animated">
-                    <img src="/img/mobile-app/works/3.jpg" alt="image" />
+                    <Image src="/img/mobile-app/works/3.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -115,7 +117,7 @@ const Works4 = () => {
               <div className="item-img">
                 <Link href="/project-details2/project-details2-dark">
                   <a className="imago wow animated">
-                    <img src="/img/mobile-app/works/4.jpg" alt="image" />
+                    <Image src="/img/mobile-app/works/4.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -136,7 +138,7 @@ const Works4 = () => {
               <div className="item-img">
                 <Link href="/project-details2/project-details2-dark">
                   <a className="imago wow animated">
-                    <img src="/img/mobile-app/works/6.jpg" alt="image" />
+                    <Image src="/img/mobile-app/works/6.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -157,7 +159,7 @@ const Works4 = () => {
               <div className="item-img">
                 <Link href="/project-details2/project-details2-dark">
                   <a className="imago wow animated">
-                    <img src="/img/mobile-app/works/7.jpg" alt="image" />
+                    <Image src="/img/mobile-app/works/7.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -178,7 +180,7 @@ const Works4 = () => {
               <div className="item-img">
                 <Link href="/project-details2/project-details2-dark">
                   <a className="imago wow animated">
-                    <img src="/img/mobile-app/works/8.jpg" alt="image" />
+                    <Image src="/img/mobile-app/works/8.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>

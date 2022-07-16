@@ -2,6 +2,8 @@
 import React from "react";
 import Link from "next/link";
 import initIsotope from "../../common/initIsotope";
+import Image from 'next/image';
+
 
 const WorksStyle5 = () => {
   React.useEffect(() => {
@@ -43,7 +45,7 @@ const WorksStyle5 = () => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/arch/work/1.jpg" alt="image" />
+                    <Image src="/img/arch/work/1.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -64,7 +66,7 @@ const WorksStyle5 = () => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/arch/work/2.jpg" alt="image" />
+                    <Image src="/img/arch/work/2.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -85,7 +87,7 @@ const WorksStyle5 = () => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/arch/work/5.jpg" alt="image" />
+                    <Image src="/img/arch/work/5.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -106,7 +108,7 @@ const WorksStyle5 = () => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/arch/work/3.jpg" alt="image" />
+                    <Image src="/img/arch/work/3.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -127,7 +129,7 @@ const WorksStyle5 = () => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/arch/work/4.jpg" alt="image" />
+                    <Image src="/img/arch/work/4.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -148,7 +150,7 @@ const WorksStyle5 = () => {
               <div className="item-img">
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="imago wow">
-                    <img src="/img/arch/work/6.jpg" alt="image" />
+                    <Image src="/img/arch/work/6.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>

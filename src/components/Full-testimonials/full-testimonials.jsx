@@ -3,6 +3,8 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import Image from 'next/image';
+
 
 class FullTestimonials extends React.Component {
   constructor(props) {
@@ -108,7 +110,9 @@ class FullTestimonials extends React.Component {
                     <div className="cont">
                       <div className="author">
                         <div className="img">
-                          <img src="/img/clients/unknown-person-icon-27.jpg" alt="" />
+                          <Image src="/img/clients/unknown-person-icon-27.jpg" alt="image"
+                  width={500}
+                  height={500} />
                         </div>
                         <h6 className="author-name color-font">
                         Reagan Daniels
@@ -132,7 +136,9 @@ class FullTestimonials extends React.Component {
                     <div className="cont">
                       <div className="author">
                         <div className="img">
-                          <img src="/img/clients/unknown-person-icon-27.jpg" alt="" />
+                          <Image src="/img/clients/unknown-person-icon-27.jpg" alt="image"
+                  width={500}
+                  height={500} />
                         </div>
                         <h6 className="author-name color-font">
                         Reagan Daniels
@@ -158,7 +164,9 @@ class FullTestimonials extends React.Component {
                     <div className="cont">
                       <div className="author">
                         <div className="img">
-                          <img src="/img/clients/unknown-person-icon-27.jpg" alt="" />
+                          <Image src="/img/clients/unknown-person-icon-27.jpg" alt="image"
+                  width={500}
+                  height={500} />
                         </div>
                         <h6 className="author-name color-font">
                         Reagan Daniels
@@ -181,7 +189,9 @@ class FullTestimonials extends React.Component {
                     <div className="cont">
                       <div className="author">
                         <div className="img">
-                          <img src="/img/clients/221162130_518272629758726_1584425299293407110_n.jpg" alt="" />
+                          <Image src="/img/clients/221162130_518272629758726_1584425299293407110_n.jpg" alt="image"
+                  width={500}
+                  height={500}/>
                         </div>
                         <h6 className="author-name color-font">
                         Jemima Jaemii Musadi
@@ -206,7 +216,9 @@ class FullTestimonials extends React.Component {
                     <div className="cont">
                       <div className="author">
                         <div className="img">
-                          <img src="/img/clients/WhatsApp Image 2022-06-26 at 6.25.01 PM.jpeg" alt="" />
+                          <Image src="/img/clients/WhatsApp Image 2022-06-26 at 6.25.01 PM.jpeg" alt="image"
+                  width={500}
+                  height={500}/>
                         </div>
                         <h6 className="author-name color-font">
                         Matthew Gie
@@ -227,7 +239,9 @@ class FullTestimonials extends React.Component {
                     <div className="cont">
                       <div className="author">
                         <div className="img">
-                          <img src="/img/clients/1517253960871.jpg" alt="" />
+                          <Image src="/img/clients/1517253960871.jpg" alt="image"
+                  width={500}
+                  height={500}/>
                         </div>
                         <h6 className="author-name color-font">
                         Trevor Pascoe 
@@ -248,7 +262,9 @@ class FullTestimonials extends React.Component {
                     <div className="cont">
                       <div className="author">
                         <div className="img">
-                          <img src="/img/clients/1.jpg" alt="" />
+                          <Image src="/img/clients/1.jpg" alt="image"
+                  width={500}
+                  height={500} />
                         </div>
                         <h6 className="author-name color-font">
                           Alex Regelman
