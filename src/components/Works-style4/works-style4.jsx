@@ -210,12 +210,20 @@ const WorksStyle4 = () => {
                 </div>
                 <Link href={`/project-details2/project-details2-dark`}>
                   <a className="rota">
-                    <Image src="/img/portfolio/freelancer/d847951e-d8e6-4f7c-8dac-3cdad6321a99.webp " alt=""
+                    <Image src="/img/portfolio/freelancer/d847951e-d8e6-4f7c-8dac-3cdad6321a99.webp" alt=""
                   width={1000}
                   height={1000}/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
+                {/* <Link href={`/project-details2/project-details2-dark`}>
+                  <a className="rota">
+                    <Image src="/img/portfolio/freelancer/d847951e-d8e6-4f7c-8dac-3cdad6321a99.webp" alt=""
+                  width={1000}
+                  height={1000}/>
+                    <div className="item-img-overlay"></div>
+                  </a>
+                </Link> */}
                 <div className="tags">
                   <span>
                     <Link href="#0">Location</Link>

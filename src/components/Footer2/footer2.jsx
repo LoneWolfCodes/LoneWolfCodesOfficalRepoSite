@@ -81,7 +81,7 @@ const Footer2 = () => {
                   <div className="img">
                     <Link href="/blog/blog-dark">
                       <a>
-                        <img src="/img/blog/pexels-andrea-piacquadio-3813341-min.jpg" alt="" />
+                        <Image width={900} height={700} src="/img/blog/pexels-andrea-piacquadio-3813341-min.jpg" alt="" />
                       </a>
                     </Link>
                   </div>
@@ -105,7 +105,7 @@ const Footer2 = () => {
                   <div className="img">
                     <Link href="/blog/blog-dark">
                       <a>
-                        <img src="/img/blog/surface-nUHs5rcX9fo-unsplash-min-min.jpg" alt="" />
+                        <Image width={900} height={700} src="/img/blog/surface-nUHs5rcX9fo-unsplash-min-min.jpg" alt="" />
                       </a>
                     </Link>
                   </div>
@@ -138,16 +138,7 @@ const Footer2 = () => {
 
         <div className="row">
          
-          <div className="col-lg-4 col-md-6">
-            <div className="item-clumn our md-mb50">
-              <a href="#0" className="logo-brand mb-50">
-                <img src="/img/logo.png" alt="" />
-              </a>
-              <p>
-              My code is your command.
-              </p>
-            </div>
-          </div>
+          
 
           <div className="col-lg-3 col-md-6">
             <div className="item-clumn links md-mb50">
@@ -195,6 +186,7 @@ const Footer2 = () => {
               </ul>
             </div>
           </div>
+          
           <div className="col-lg-2 col-md-6">
             <div className="item-clumn links sm-mb50">
               <h5 className="title">Links</h5>
@@ -241,9 +233,7 @@ const Footer2 = () => {
               </div>
           </div>
 
-              
-          <div  >
-          <div className="item">
+            
           <div className="item-clumn links">
               <h5 className="title mb-30">Social Links</h5>
 
@@ -263,10 +253,64 @@ const Footer2 = () => {
                   <i className="fab fa-youtube"></i>
                 </a>
               </div>
-          </div>
+              <div>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+
+
+            </div>
+
+            </div>
+            <div>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+
 
             </div>
             </div>
+            <div>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+
+
+            </div>
+           
+
+              
+          <div className="col-lg-4 col-md-6">
+            <div className="item-clumn our md-mb50">
+              <a href="#0" className="logo-brand mb-50">
+                <Image width={5000} height={5000} src="/img/logo.png" alt="" />
+              </a>
+              <p>
+              My code is your command.
+              </p>
+            </div>
+          </div>
+
+          <div className="item">
+          
           </div>
             </div>
       </div>

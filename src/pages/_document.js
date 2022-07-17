@@ -19,7 +19,7 @@ class MyDocument extends Document {
           />
           <meta
             name="description"
-            content="Vie - Onepage Multi-Purpose HTML5 Template"
+            content="Made by Caleb Mutombo@LoneWolfCodes"
           />
           <meta name="author" content="" />
           <link rel="shortcut icon" href="/img/logo.png" />

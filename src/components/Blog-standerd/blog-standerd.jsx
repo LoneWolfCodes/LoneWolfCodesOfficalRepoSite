@@ -18,12 +18,12 @@ const BlogStanderd = ({ blogs }) => {
                   }`}
                   key={blogItem.id}
                 >
-                  <div className="img">
+                  <div className="img justify-content-center">
                     <Link href={`#0`}>
                       <a>
                         <Image src={blogItem.image} alt="" 
                         width={1000}
-                        height={500} />
+                        height={600} />
                         
                       </a>
                     </Link>
