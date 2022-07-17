@@ -301,7 +301,7 @@ const Footer2 = () => {
           <div className="col-lg-4 col-md-6">
             <div className="item-clumn our md-mb50">
               <a href="#0" className="logo-brand mb-50">
-                <Image width={5000} height={5000} src="/img/logo.png" alt="" />
+                <Image width={500} height={500} src="/img/logo.png" alt="" />
               </a>
               <p>
               My code is your command.
