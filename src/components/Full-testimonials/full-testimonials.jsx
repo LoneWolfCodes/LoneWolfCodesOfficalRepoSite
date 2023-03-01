@@ -206,7 +206,7 @@ class FullTestimonials extends React.Component {
                   &quot;
                   Caleb is such an optimist and is not afraid to take risks. 
                   Mountains look like hills to him. 
-                  I look forward to see what he will do with Lone Wolf.
+                  I look forward to see what he will do with Lone Wolves.
                   &quot;
                   </p>
                 </div>

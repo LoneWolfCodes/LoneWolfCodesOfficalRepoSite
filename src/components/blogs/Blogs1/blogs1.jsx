@@ -12,7 +12,7 @@ const Blogs1 = () => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head  text-center">
               <h6 className="wow fadeIn" data-wow-delay=".5s">
-              LONE WOLF  BLOGS
+              LONE WOLVES  BLOGS
               </h6>
               <h3 className="wow color-font">For digital nomads.</h3>
             </div>
@@ -22,7 +22,7 @@ const Blogs1 = () => {
           <div className="col-lg-6">
             <div className="item md-mb50 wow fadeInUp" data-wow-delay=".3s">
               <div className="img">
-                <Image src="/img/blog/pexels-christina-morillo-1181244-min-min.jpg" alt="image"
+                <Image src="/img/blog/pexels-andrea-piacquadio-3769021.jpg" alt="image"
                         width={600}
                         height={400} />
               </div>
@@ -39,7 +39,7 @@ const Blogs1 = () => {
                     <span>/</span>
                     <Link href="/blog/blog-dark">
                     <a  className="tag">
-                      <span>LONE WOLF CODES</span>
+                      <span>Lone Wolves Blog</span>
                     </a>
                     </Link>
                   </div>
@@ -82,7 +82,7 @@ const Blogs1 = () => {
                     <span>/</span>
                     <Link href="/blog/blog-dark">
                     <a  className="tag">
-                      <span>LONE WOLF BLOGS</span>
+                      <span>LONE WOLVES BLOG</span>
                     </a>
                     </Link>
                   </div>

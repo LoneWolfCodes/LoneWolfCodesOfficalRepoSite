@@ -18,14 +18,14 @@ const WorksStyle1 = () => {
         <div className="row lg-space">
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href={`/project-details2/project-details2-dark`}>
+              <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                 <a>
                   <div
                     className="img"
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <Image src="/img/portfolio/portfolio/1/1.jpg" alt="" layout='fill'/>
+                    <Image src="/img/catalog/catalog/1/1.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -33,14 +33,14 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6 valign">
             <div className="item">
-              <Link href={`/project-details2/project-details2-dark`}>
+              <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                 <a>
                   <div
                     className="img"
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <Image src="/img/portfolio/portfolio/2/1.jpg" alt="" layout='fill'/>
+                    <Image src="/img/catalog/catalog/2/1.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -48,14 +48,14 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href={`/project-details2/project-details2-dark`}>
+              <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                 <a>
                   <div
                     className="img"
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <Image src="/img/portfolio/portfolio/1/2.jpg" alt="" layout='fill'/>
+                    <Image src="/img/catalog/catalog/1/2.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -63,14 +63,14 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6 valign">
             <div className="item">
-              <Link href={`/project-details2/project-details2-dark`}>
+              <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                 <a>
                   <div
                     className="img"
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <Image src="/img/portfolio/portfolio/2/3.jpg" alt="" layout='fill'/>
+                    <Image src="/img/catalog/catalog/2/3.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -78,14 +78,14 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href={`/project-details2/project-details2-dark`}>
+              <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                 <a>
                   <div
                     className="img"
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <Image src="/img/portfolio/portfolio/1/3.jpg" alt="" layout='fill'/>
+                    <Image src="/img/catalog/catalog/1/3.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -93,14 +93,14 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6 valign">
             <div className="item">
-              <Link href={`/project-details2/project-details2-dark`}>
+              <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                 <a>
                   <div
                     className="img"
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <Image src="/img/portfolio/portfolio/2/4.jpg" alt="" layout='fill'/>
+                    <Image src="/img/catalog/catalog/2/4.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -108,14 +108,14 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href={`/project-details2/project-details2-dark`}>
+              <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                 <a>
                   <div
                     className="img"
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <Image src="/img/portfolio/portfolio/1/4.jpg" alt="" layout='fill'/>
+                    <Image src="/img/catalog/catalog/1/4.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -123,14 +123,14 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6 valign">
             <div className="item">
-              <Link href={`/project-details2/project-details2-dark`}>
+              <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                 <a>
                   <div
                     className="img"
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <Image src="/img/portfolio/portfolio/2/5.jpg" alt="" layout='fill'/>
+                    <Image src="/img/catalog/catalog/2/5.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>
@@ -138,14 +138,14 @@ const WorksStyle1 = () => {
           </div>
           <div className="col-lg-4 col-md-6">
             <div className="item">
-              <Link href={`/project-details2/project-details2-dark`}>
+              <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                 <a>
                   <div
                     className="img"
                     data-tooltip-tit="Work image"
                     data-tooltip-sub="Design"
                   >
-                    <Image src="/img/portfolio/portfolio/1/5.jpg" alt="" layout='fill'/>
+                    <Image src="/img/catalog/catalog/1/5.jpg" alt="" layout='fill'/>
                   </div>
                 </a>
               </Link>

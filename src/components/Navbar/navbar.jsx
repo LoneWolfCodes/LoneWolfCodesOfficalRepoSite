@@ -47,26 +47,26 @@ const Navbar = ({ lr, nr, theme }) => {
             
                 
                 <li className="nav-item">
-              <Link href={`/LoneWolfCodes/Home-dark`}>
+              <Link href={`/lonewolvesdigital/home-dark`}>
                 <a className="nav-link">Home</a>
               </Link>
             </li>
 
             <li className="nav-item">
-              <Link href={`/LoneWolfCodes/Team-dark`}>
+              <Link href={`/lonewolvesdigital/team-dark`}>
                 <a className="nav-link">Team</a>
               </Link>
             </li>
 
             <li className="nav-item">
-              <Link href={`/Portfolio/Portfolio-dark`}>
-                <a className="nav-link">Portfolio</a>
+              <Link href={`/catalog/catalog-dark`}>
+                <a className="nav-link">Catalog</a>
               </Link>
             </li>
 
 
             <li className="nav-item">
-              <Link href={`/LoneWolfCodes/Process-dark`}>
+              <Link href={`/lonewolvesdigital/process-dark`}>
                 <a className="nav-link">Process </a>
               </Link>
             </li>
@@ -90,19 +90,19 @@ const Navbar = ({ lr, nr, theme }) => {
             </li>
 
             <li className="nav-item">
-                <Link href="/LoneWolfCodes/FAQ">
+                <Link href="/lonewolvesdigital/faq">
                 <a className="nav-link">FAQ</a>
               </Link>
             </li>
 
             <li className="nav-item">
-              <Link href={`/T&C-list/T&C-list-dark`}>
+              <Link href={`/t&c-list/t&c-list-dark`}>
                 <a className="nav-link">T&C </a>
               </Link>
             </li>
 
             <li className="nav-item">
-              <Link href="/Price/Price-Details-dark">
+              <Link href="/price/price-Details-dark">
                 <a className="nav-link">Price</a>
               </Link>
             </li>

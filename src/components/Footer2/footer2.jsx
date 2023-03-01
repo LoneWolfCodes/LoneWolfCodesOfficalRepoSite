@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-// import appData from "../../data/app.json";
+import appData from "../../data/app.json";
 import DarkTheme from "../../layouts/Dark";
 import Image  from 'next/image';
 
@@ -22,14 +22,14 @@ const Footer2 = () => {
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
                     <h6>Official Address</h6>
-                    <p>34 Pickerill St, Retreat, Cape Town, 7965</p>
+                    <p>2nd Floor, The Harrington, 50 Harrington St, District Six, Cape Town, 7925</p>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email me</h6>
-                    <p>lonewolfcodes56@gmail.com</p>
+                    <p>calebmutombo@lonewolvesdigital.com</p>
                   </div>
                 </li>
                 <li>
@@ -61,9 +61,12 @@ const Footer2 = () => {
 
               <div className="title  Copy-right">
                 <p>
-                   Made by Caleb Mutombo.  <span/> <span/> At Lone Wolf Codes. <span/> <span/>
-                   <Link href="/LoneWolfCodes/Team-dark">
-                    <a> <span/>My code Is your command!</a>
+                   Made by Caleb Mutombo.  <span/> 
+                   <br/> 
+                   
+                   <span/> At Lone Wolves Digital. <span/> <span/>
+                   <Link href="/lonewolvesdigital/team-dark">
+                    <a> <span/></a>
                   </Link>
                 </p>
               </div>
@@ -81,7 +84,7 @@ const Footer2 = () => {
                   <div className="img">
                     <Link href="/blog/blog-dark">
                       <a>
-                        <Image width={900} height={700} src="/img/blog/pexels-andrea-piacquadio-3813341-min.jpg" alt="" />
+                        <Image width={900} height={700} src="/img/blog/pexels-andrea-piacquadio-3813341.jpg" alt="" />
                       </a>
                     </Link>
                   </div>
@@ -119,7 +122,7 @@ const Footer2 = () => {
                     </Link>
                     <Link href="/blog/blog-dark">
                       <a>
-                      <span className="date">LONE WOLF BLOGS</span> <h6>coming soon...</h6>
+                      <span className="date">LONE WOLVES BLOG</span> <h6>coming soon...</h6>
                       </a>
                     </Link>
                   </div>
@@ -146,14 +149,14 @@ const Footer2 = () => {
               <ul>
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <Link href="/LoneWolfCodes/Home-dark">
+                  <Link href="/lonewolvesdigital/home-dark">
                     <a>Home</a>
                   </Link>
                 </li>
 
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <Link href="/LoneWolfCodes/Team-dark">
+                  <Link href="/lonewolvesdigital/team-dark">
                     <a>Team</a>
                   </Link>
                 </li>
@@ -161,14 +164,14 @@ const Footer2 = () => {
                 
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <Link href="/Portfolio/Portfolio-dark">
-                    <a>Portfolio</a>
+                  <Link href="/catalog/catalog-dark">
+                    <a>Catalog</a>
                   </Link>
                 </li>
 
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <Link href="/LoneWolfCodes/Process-dark">
+                  <Link href="/lonewolvesdigital/process-dark">
                     <a>Process</a>
                   </Link>
                 </li>
@@ -209,7 +212,7 @@ const Footer2 = () => {
                 
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <Link href="/LoneWolfCodes/FAQ">
+                  <Link href="/lonewolvesdigital/faq">
                     <a>FAQ</a>
                   </Link>
                 </li>
@@ -217,14 +220,14 @@ const Footer2 = () => {
 
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <Link href="/T&C-list/T&C-list-dark">
+                  <Link href="/t&c-list/t&c-list-dark">
                     <a>T&C</a>
                   </Link>
                 </li>
 
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <Link href="/Price/Price-Details-dark">
+                  <Link href="/price/price-Details-dark">
                     <a>Price</a>
                   </Link>
                 </li>
@@ -301,12 +304,12 @@ const Footer2 = () => {
           <div className="col-lg-4 col-md-6">
             <div className="item-clumn our md-mb50">
               <a href="#0" className="logo-brand mb-50">
-                <Image width={500} height={500} src="/img/logo.png" alt="" />
+                <Image width={1000} height={1000} src="/img/logo.png" alt="" />
               </a>
-              <p>
-              My code is your command.
-              </p>
             </div>
+            <p>
+              WHAT YOU DEMAND, WE COMMAND!
+              </p>
           </div>
 
           <div className="item">
@@ -322,7 +325,7 @@ const Footer2 = () => {
 
 <br/>
       <div className="text-center">
-         <p>© 2022 Lone Wolf Codes. All Rights Reserved</p>
+         <p>© 2022 Lone Wolves Digital. All Rights Reserved</p>
         </div>
     </footer>
   );

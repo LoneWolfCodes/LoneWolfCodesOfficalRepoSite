@@ -16,7 +16,7 @@ const AboutIntro = () => {
             <div className="text">
               <Split>
                 <br/>
-                <h2 className="wow txt words chars splitting" data-splitting>Who <span/>or<span/> what<span/> is<span/> Lone<span/> Wolf<span/> Codes?</h2>
+                <h2 className="wow txt words chars splitting" data-splitting>What<span/> is<span/> Lone<span/> Wolves<span/> Digital?</h2>
                 <p
                   className="wow txt mb-10 words chars splitting"
                   data-splitting
@@ -27,7 +27,7 @@ const AboutIntro = () => {
                   {AboutInfo1Data.paragraph2}
                 </p>
                 <br/>
-                <h2 className="wow txt words chars splitting" data-splitting>What <span/>does<span/> Lone <span/>Wolf<span/> Codes<span/> do?</h2>
+                <h2 className="wow txt words chars splitting" data-splitting>What <span/>does<span/> Lone <span/>Wolves<span/> Digital<span/> do?</h2>
                 <p
                   className="wow txt mb-10 words chars splitting"
                   data-splitting
@@ -38,7 +38,7 @@ const AboutIntro = () => {
                   {AboutInfo1Data.paragraph4}
                 </p>
                 <br/>
-                <h2 className="wow txt words chars splitting" data-splitting>How <span/> does <span/>Lone <span/>Wolf <span/>Codes <span/> work?</h2>
+                <h2 className="wow txt words chars splitting" data-splitting>How <span/> does <span/>Lone <span/>Wolves <span/>Digital <span/> work?</h2>
                 <p
                   className="wow txt mb-10 words chars splitting"
                   data-splitting
@@ -49,7 +49,7 @@ const AboutIntro = () => {
                   {AboutInfo1Data.paragraph6}
                 </p>
                 <br/>
-                <h2 className="wow txt words chars splitting" data-splitting>Why <span/> choose <span/> Lone <span/> Wolf <span/> Codes?</h2>
+                <h2 className="wow txt words chars splitting" data-splitting>Why <span/> choose <span/> Lone <span/> Wolves <span/> Digtal?</h2>
                 <p
                   className="wow txt mb-10 words chars splitting"
                   data-splitting

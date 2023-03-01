@@ -11,14 +11,16 @@ const Blogs2 = () => {
         <div className="row">
           <div className="col-lg-4">
             <div className="head md-mb50">
-              <h6 className="back-color">What can I code?</h6>
-              <h3>Whatever you command.</h3>
+              <h6 className="back-color">What can we command?</h6>
+              <h3>Whatever you demand!</h3>
               <p>
-              Here are the different types of websites that I can code as you command… From E-commerce, Landing pages, Blog pages, Portfolio and Funnel pages. 
+              Here are just some of the 12 different types of digital products and services we provide…  
+              From 1. Admin & Customer Support, 2. Business, & Finance, 3. Data & AI services, 4. Engineering & Architecture and so on...
+ 
               </p>
-              <Link href="/Portfolio/Portfolio-dark">
+              <Link href="/catalog/catalog-dark">
                 <a>
-                  <span>SEE MY PORTFOLIO HERE</span>
+                  <span>SEE OUR FULL CATALOG HERE! </span>
                 </a>
               </Link>
             </div>
@@ -33,24 +35,24 @@ const Blogs2 = () => {
               <div className="cont valign">
                 <div>
                   <div className="info">
-                    <Link href="/Portfolio/Portfolio-dark">
+                    <Link href="/catalog/catalog-dark">
                       <a className="date">
                         <span>
-                          <i>E-COMMERCE sites</i>
+                          <i>Legal</i>
                           </span>
                       </a>
                     </Link>
                     <span>/</span>
                     <Link href="/blog/blog-dark">
                       <a className="tag">
-                        <span>Lone Wolf Portfolio</span>
+                        <span>Lone WOlVES Catalog</span>
                       </a>
                     </Link>
                   </div>
                   <h5>
                     <Link href="/blog-details/blog-details-dark">
                       <a>
-                      Start selling your products today, from anywhere in the world.
+                      Regardless of whether you need legal advice, help negotiating, or getting out of trouble, let us get you out of trouble and keep it that way.
                       </a>
                     </Link>
                   </h5>
@@ -69,21 +71,21 @@ const Blogs2 = () => {
                     <Link href="/blog/blog-dark">
                       <a className="date">
                         <span>
-                          <i>PORTFOLIO SITES</i>
+                          <i>Lifestyle</i>
                         </span>
                       </a>
                     </Link>
                     <span>/</span>
                     <Link href="/blog/blog-dark">
                       <a className="tag">
-                        <span>Lone Wolf Portfolio</span>
+                        <span>Lone WOlVES catalog</span>
                       </a>
                     </Link>
                   </div>
                   <h5>
                     <Link href="/blog-details/blog-details-dark">
                       <a>
-                      Websites are the new c.v/resume, so get a portfolio site. 
+                      We have some expert advice on personal development, health, wellness, and even therapist! 
                       </a>
                     </Link>
                   </h5>
@@ -102,22 +104,21 @@ const Blogs2 = () => {
                     <Link href="/blog/blog-dark">
                       <a className="date">
                         <span>
-                          <i>BLOGS</i> SITES
+                          <i>Sales &</i> Digital Marketing.
                         </span>
                       </a>
                     </Link>
                     <span>/</span>
                     <Link href="/blog/blog-dark">
                       <a className="tag">
-                        <span>Lone Wolf Portfolio</span>
+                        <span>Lone WOLVES catalog</span>
                       </a>
                     </Link>
                   </div>
                   <h5>
                     <Link href="/blog-details/blog-details-dark">
                       <a>
-                        Start sharing your thoughts online and get paid for it today.
-                      </a>
+                      Your brand needs to be heard and seen all over, that’s why you trust Lone Wolves Digital to convey your message.                       </a>
                     </Link>
                   </h5>
                 </div>

@@ -46,7 +46,7 @@ const Contact = () => {
         <ContactForm />
         <div className="map" id="ieatmaps">
 
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.037831911348!2d18.469431814954657!3d-34.06854443688422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc418324410f01%3A0x968a7190fcc793f2!2s34%20Pickerill%20St%2C%20Retreat%2C%20Cape%20Town%2C%207965!5e0!3m2!1sen!2sza!4v1653893755844!5m2!1sen!2sza" 
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.8344934958986!2d18.415954734887695!3d-33.919658999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc67c227c54691%3A0x1054ddc64444ee9d!2sWeWork%20-%20Coworking%20%26%20Office%20Space!5e0!3m2!1sen!2sza!4v1677677039594!5m2!1sen!2sza" 
         loading="lazy" 
         referrerpolicy="no-referrer-when-downgrade">
         </iframe>

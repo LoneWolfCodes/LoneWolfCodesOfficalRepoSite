@@ -93,9 +93,9 @@ const NavbarMobileApp = ({ lr, nr, theme }) => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link href="/mobile-app/portfolio-dark">
+              <Link href="/mobile-app/catalog-dark">
               <a className="nav-link" >
-                Portfolio
+                catalog
               </a>
               </Link>
             </li>

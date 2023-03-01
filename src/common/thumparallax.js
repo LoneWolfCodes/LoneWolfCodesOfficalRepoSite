@@ -2,6 +2,7 @@ export const thumparallax = () => {
   var imageUp = document.getElementsByClassName("thumparallax");
   if (imageUp) {
     new simpleParallax(imageUp, {
+      orientation: "up",
       delay: 1,
       scale: 1.1,
     });

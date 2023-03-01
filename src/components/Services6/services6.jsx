@@ -13,9 +13,9 @@ const Services6 = () => {
             <h6 className="numb"> Step 01</h6>
             <h5 className="color-font">GOAL IDENTIFICATION</h5>
             <p>
-            Clarity is key so, tell me where do you want to take your website and I will show you how to get there.
+            Clarity is key so, show us where you want to take your project and we will show you how to get there.
             </p>
-            <Link href="/about/about-dark">
+            <Link href="/lonewolvesdigital/process-dark">
               <a className="custom-font more main-color">Read More</a>
             </Link>
           </div>
@@ -29,7 +29,7 @@ const Services6 = () => {
             <p>
             Like a chef preparing the ingredients for a five star meal, I prepare the components  for your new world class website.
             </p>
-            <Link href="/about/about-dark">
+            <Link href="/lonewolvesdigital/process-dark">
               <a className="custom-font more main-color">Read More</a>
             </Link>
           </div>
@@ -39,11 +39,11 @@ const Services6 = () => {
             style={{ backgroundImage: "url(/img/arch/faizur-rehman-dJpupM4LiS4-unsplash-min.jpg)" }}
           >
             <h6 className="numb">Step 03</h6>
-            <h5 className="color-font">SITEMAP & WIREFRAMES</h5>
+            <h5 className="color-font">Plan</h5>
             <p>
-            Know the purpose of the site and it;s components, can only mean it’s time to plan the construction.
+            Once you know the purpose of your request and it's components, this can only mean it’s time to plan the construction.
             </p>
-            <Link href="/about/about-dark">
+            <Link href="/lonewolvesdigital/process-dark">
               <a className="custom-font more main-color">Read More</a>
             </Link>
           </div>
@@ -53,11 +53,11 @@ const Services6 = () => {
             style={{ backgroundImage: "url(/img/arch/peter-stumpf-FhZEpxtTI_Y-unsplash-min.jpg)" }}
           >
             <h6 className="numb">Step 04</h6>
-            <h5 className="color-font">CONTENT CREATION</h5>
+            <h5 className="color-font">Manifest</h5>
             <p>
-            I will make sure that the images, video, text and animation send one unified message from you to your clients/ customers 
+            It's magic time, we will make sure that no matter the task we will ensure that the images, video, text and animation are the correct combination, just for you. 
             </p>
-            <Link href="/about/about-dark">
+            <Link href="/lonewolvesdigital/process-dark">
               <a className="custom-font more main-color">Read More</a>
             </Link>
           </div>
@@ -69,10 +69,11 @@ const Services6 = () => {
             style={{ backgroundImage: "url(/img/arch/kevin-nalty-BPQzHsFD9ng-unsplash-min.jpg)" }}
           >
             <h6 className="numb">Step 05</h6>
-            <h5 className="color-font">VISUAL ELEMENTS</h5>
+            <h5 className="color-font">Deliver</h5>
             <p>
-            One by one, with creativity I will delicately place all the elements of your site in just the right place.             </p>
-            <Link href="/about/about-dark">
+            We give you what you asked for, and you will find it delivered right in your inbox, either by a link or the actual file!
+            </p>
+            <Link href="/lonewolvesdigital/process-dark">
               <a className="custom-font more main-color">Read More</a>
             </Link>
           </div>
@@ -81,15 +82,15 @@ const Services6 = () => {
             style={{ backgroundImage: "url(/img/arch/luke-chesser-JKUTrJ4vK00-unsplash-min.jpg)" }}
           >
             <h6 className="numb">Step 06</h6>
-            <h5 className="color-font">TESTING</h5>
+            <h5 className="color-font">SUPPORT</h5>
             <p>
-            To ensure that all functions  and elements are working harmoniously, I will put your site under multiple regress tests.
+            Some projects are bigger than other, that's why we stay with you for the long run. Feel free to come back for some TLC if needed.
             </p>
-            <Link href="/about/about-dark">
+            <Link href="/lonewolvesdigital/process-dark">
               <a className="custom-font more main-color">Read More</a>
             </Link>
           </div>
-          <div
+          {/* <div
             className="col-lg col-md-6 item bg-img"
             style={{ backgroundImage: "url(/img/arch/nasa-JkaKy_77wF8-unsplash-min.jpg)" }}
           >
@@ -114,7 +115,7 @@ const Services6 = () => {
             <Link href="/about/about-dark">
               <a className="custom-font more main-color">Read More</a>
             </Link>
-          </div>
+          </div> */}
           
         </div>
         

@@ -101,7 +101,7 @@ const Works2 = ({ sliderRef }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/1.jpg)",
+                              backgroundImage: "url(/img/catalog/curs/1.jpg)",
                             }}
                           ></div>
                           <div className="cont bgbox">
@@ -114,7 +114,7 @@ const Works2 = ({ sliderRef }) => {
                             </h6>
                             <h4>
                               <Link
-                                href={`/project-details2/project-details2-dark`}
+                                href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                               >
                                 <a>Innovation and Crafts.</a>
                               </Link>
@@ -130,7 +130,7 @@ const Works2 = ({ sliderRef }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/2.jpg)",
+                              backgroundImage: "url(/img/catalog/curs/2.jpg)",
                             }}
                           ></div>
                           <div className="cont bgbox">
@@ -143,7 +143,7 @@ const Works2 = ({ sliderRef }) => {
                             </h6>
                             <h4>
                               <Link
-                                href={`/project-details2/project-details2-dark`}
+                                href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                               >
                                 <a>Inspiring new space.</a>
                               </Link>
@@ -159,7 +159,7 @@ const Works2 = ({ sliderRef }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/3.jpg)",
+                              backgroundImage: "url(/img/catalog/curs/3.jpg)",
                             }}
                           ></div>
                           <div className="cont bgbox">
@@ -172,7 +172,7 @@ const Works2 = ({ sliderRef }) => {
                             </h6>
                             <h4>
                               <Link
-                                href={`/project-details2/project-details2-dark`}
+                                href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                               >
                                 <a>Natural plus modern.</a>
                               </Link>
@@ -188,7 +188,7 @@ const Works2 = ({ sliderRef }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/4.jpg)",
+                              backgroundImage: "url(/img/catalog/curs/4.jpg)",
                             }}
                           ></div>
                           <div className="cont bgbox">
@@ -201,7 +201,7 @@ const Works2 = ({ sliderRef }) => {
                             </h6>
                             <h4>
                               <Link
-                                href={`/project-details2/project-details2-dark`}
+                                href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                               >
                                 <a>Innovation and Crafts.</a>
                               </Link>
@@ -217,7 +217,7 @@ const Works2 = ({ sliderRef }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/5.jpg)",
+                              backgroundImage: "url(/img/catalog/curs/5.jpg)",
                             }}
                           ></div>
                           <div className="cont bgbox">
@@ -230,7 +230,7 @@ const Works2 = ({ sliderRef }) => {
                             </h6>
                             <h4>
                               <Link
-                                href={`/project-details2/project-details2-dark`}
+                                href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                               >
                                 <a>Inspiring new space.</a>
                               </Link>

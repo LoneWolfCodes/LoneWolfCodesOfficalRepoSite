@@ -10,8 +10,8 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Lone Wolf Codes</title>
-        <link rel="icon" href="/img/logo.png" />
+        <title>Lone Wolves Digital</title>
+        <link rel="icon" href="/img/LoneWolvesDigitalLogo.png" />
       </Head>
       <Cursor />
       <LoadingScreen />

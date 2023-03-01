@@ -6,14 +6,14 @@
 },
 {
     "id": 2,
-    "icon": "pe-7s-portfolio",
-    "content": "Completed web and app development projects, signed sealed and delivered.",
-    "value": "100"
+    "icon": "pe-7s-catalog",
+    "content": "Completed projects, signed sealed, and delivered.",
+    "value": "500"
 },
 {
     "id": 3,
     "icon": "pe-7s-medal",
-    "content": "To rank as some of the top 50 software development companies.",
-    "value": "50"
+    "content": "To rank as the top 1000 start-up companies in the country. ",
+    "value": "1000"
 }
 ]

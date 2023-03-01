@@ -10,11 +10,11 @@ const Services5 = () => {
             <div className="  text-center">
               
             <h3 className="wow color-font">
-             MY CODES IS YOUR COMMAND
+             WHAT YOU DEMAND, WE COMMAND!
               </h3>
               <br/>
               <h6 className= "wow fadeIn" data-wow-delay=".5s" >
-              Here are my services.  So, what do you command?
+              Here are our digital products and services. So, what do you demand?
               </h6>
             </div>
           </div>

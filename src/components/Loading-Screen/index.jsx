@@ -23,7 +23,8 @@ const LoadingScreen = () => {
         <div id="preloader">
         <div className="loading">
          
-         <p> My code is your command...</p>
+         <p> WHAT YOU DEMAND, WE COMMAND...</p>
+         <p></p>
 
       </div>
         </div>

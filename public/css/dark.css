@@ -106,8 +106,9 @@ span:hover {
 }
 
 .my-skills-pad-left{
-  padding-left: 110px;
+  padding-left: 100px;
   }
+
 
 .space-me{
   padding-bottom: -100px;
@@ -1919,7 +1920,7 @@ span:hover {
 }
 
 .navbar .logo {
-  width: 50px;
+  width: 120px;
 }
 
 .nav-scroll {
@@ -1963,7 +1964,7 @@ span:hover {
 }
 
 .topnav .logo {
-  width: 50px;
+  width: 120px;
 }
 
 .topnav .menu-icon {
@@ -3539,7 +3540,7 @@ span:hover {
 }
 
 .showcase-carus .swiper-container {
-  height: 100%;
+  height: 60%;
 }
 
 .showcase-carus .caption h1,
@@ -3650,7 +3651,7 @@ span:hover {
 }
 
 .showstyle .swiper-container {
-  height: 100%;
+  height: 60%;
 }
 
 .showstyle .swiper-slide .bg-img {
@@ -3705,7 +3706,7 @@ span:hover {
 }
 
 .showcase-grid .swiper-container {
-  height: 100%;
+  height: 60%;
 }
 
 .showcase-grid .swiper-slide .bg-img {
@@ -4131,7 +4132,10 @@ span:hover {
 }
 
 .expad{
-  height: 200px;
+  height: 150px;
+  padding-left: 95px;
+  padding-right: -150px;
+
 }
 
 .about-cr .img img {
@@ -5020,22 +5024,22 @@ span:hover {
 
 /* ====================== [ End brands ] ====================== */
 /* ====================== [ Start Work ] ====================== */
-.portfolio {
+.catalog {
   position: relative;
 }
 
-.portfolio .filtering {
+.catalog .filtering {
   padding-left: 50px;
 }
 
-.portfolio .filtering .filter {
+.catalog .filtering .filter {
   padding: 15px;
   background: rgba(255, 255, 255, 0.02);
   border-radius: 30px;
   display: inline-block;
 }
 
-.portfolio .filtering span {
+.catalog .filtering span {
   font-weight: 500;
   font-size: 12px;
   letter-spacing: 1px;
@@ -5045,11 +5049,11 @@ span:hover {
   position: relative;
 }
 
-.portfolio .filtering span.active {
+.catalog .filtering span.active {
   color: #12c2e9;
 }
 
-.portfolio .filtering span:after {
+.catalog .filtering span:after {
   content: "";
   width: 7px;
   height: 7px;
@@ -5060,18 +5064,18 @@ span:hover {
   top: 40%;
 }
 
-.portfolio .filtering span:last-of-type:after {
+.catalog .filtering span:last-of-type:after {
   display: none;
 }
 
-.portfolio .filtering.smplx .filter {
+.catalog .filtering.smplx .filter {
   padding: 0;
   background: transparent;
   border-radius: 0;
   display: inline-block;
 }
 
-.portfolio .filtering.smplx span {
+.catalog .filtering.smplx span {
   font-weight: 500;
   font-size: 12px;
   letter-spacing: 1px;
@@ -5081,11 +5085,11 @@ span:hover {
   position: relative;
 }
 
-.portfolio .filtering.smplx span.active {
+.catalog .filtering.smplx span.active {
   color: #12c2e9;
 }
 
-.portfolio .filtering.smplx span:after {
+.catalog .filtering.smplx span:after {
   content: "";
   width: 7px;
   height: 7px;
@@ -5096,20 +5100,20 @@ span:hover {
   top: 40%;
 }
 
-.portfolio .filtering.smplx span:last-of-type:after {
+.catalog .filtering.smplx span:last-of-type:after {
   display: none;
 }
 
-.portfolio .gallery .items {
+.catalog .gallery .items {
   padding: 0 50px;
   margin: 50px 0;
 }
 
-.portfolio .gallery .items.lg-mr {
+.catalog .gallery .items.lg-mr {
   margin-top: 100px;
 }
 
-.portfolio .gallery .items .item-img {
+.catalog .gallery .items .item-img {
   overflow: hidden;
   position: relative;
   -webkit-clip-path: inset(0);
@@ -5119,26 +5123,26 @@ span:hover {
   transition: all 0.3s;
 }
 
-.portfolio .gallery .items .item-img > a {
+.catalog .gallery .items .item-img > a {
   display: block;
 }
 
-.portfolio .gallery .items .item-img:hover {
+.catalog .gallery .items .item-img:hover {
   -webkit-clip-path: inset(5px 10px);
   clip-path: inset(5px 10px);
 }
 
-.portfolio .gallery .items .item-img:hover img {
+.catalog .gallery .items .item-img:hover img {
   -webkit-transform: scale(1.05);
   -ms-transform: scale(1.05);
   transform: scale(1.05);
 }
 
-.portfolio .gallery .items .item-img:hover .cont {
+.catalog .gallery .items .item-img:hover .cont {
   opacity: 1;
 }
 
-.portfolio .gallery .items .item-img img {
+.catalog .gallery .items .item-img img {
   height: 100%;
   width: 100%;
   -o-object-fit: cover;
@@ -5148,7 +5152,7 @@ span:hover {
   transition: all 0.5s;
 }
 
-.portfolio .gallery .items .item-img .cont {
+.catalog .gallery .items .item-img .cont {
   position: absolute;
   bottom: 15px;
   left: 0;
@@ -5160,28 +5164,28 @@ span:hover {
   transition: all 0.4s;
 }
 
-.portfolio .gallery .items .item-img .cont span {
+.catalog .gallery .items .item-img .cont span {
   color: #eee;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 13px;
 }
 
-.portfolio .gallery .items .item-img .cont span a {
+.catalog .gallery .items .item-img .cont span a {
   margin: 0 10px 0 0;
 }
 
-.portfolio .gallery .items .cont {
+.catalog .gallery .items .cont {
   margin-top: 30px;
   text-align: center;
 }
 
-.portfolio .gallery .items .cont h6 {
+.catalog .gallery .items .cont h6 {
   font-weight: 600;
   margin-bottom: 5px;
 }
 
-.portfolio .gallery .items .cont span {
+.catalog .gallery .items .cont span {
   color: #999;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -5189,23 +5193,23 @@ span:hover {
   font-size: 13px;
 }
 
-.portfolio .gallery .items .cont span a {
+.catalog .gallery .items .cont span a {
   margin: 0 5px;
 }
 
-.portfolio .gallery .bords .item-img {
+.catalog .gallery .bords .item-img {
   padding: 10px;
   border: 1px solid rgba(255, 255, 255, 0.03);
 }
 
-.portfolio .gallery .bords .cont {
+.catalog .gallery .bords .cont {
   border: 1px solid rgba(255, 255, 255, 0.03);
   margin-top: 0;
   border-top: 0;
   padding: 10px;
 }
 
-.portfolio.three-column .gallery .items {
+.catalog.three-column .gallery .items {
   padding: 0 15px;
   margin: 25px 0;
 }
@@ -5266,11 +5270,11 @@ span:hover {
   margin: 0 0 5px 0;
 }
 
-.portfolio-cr .filtering .filter {
+.catalog-cr .filtering .filter {
   display: inline-block;
 }
 
-.portfolio-cr .filtering span {
+.catalog-cr .filtering span {
   color: #999;
   font-size: 13px;
   font-weight: 500;
@@ -5282,7 +5286,7 @@ span:hover {
   position: relative;
 }
 
-.portfolio-cr .filtering span:after {
+.catalog-cr .filtering span:after {
   content: "";
   width: 100%;
   height: 2px;
@@ -5296,16 +5300,16 @@ span:hover {
   transition: all 0.4s;
 }
 
-.portfolio-cr .filtering .active {
+.catalog-cr .filtering .active {
   color: #12c2e9;
 }
 
-.portfolio-cr .filtering .active:after {
+.catalog-cr .filtering .active:after {
   bottom: 0;
   opacity: 1;
 }
 
-.portfolio-cr .items {
+.catalog-cr .items {
   padding: 0 15px;
   margin-top: 30px;
   width: 50%;
@@ -5313,18 +5317,18 @@ span:hover {
   overflow: hidden;
 }
 
-.portfolio-cr .items:hover .cont {
+.catalog-cr .items:hover .cont {
   opacity: 1;
   -webkit-transform: translateY(0);
   -ms-transform: translateY(0);
   transform: translateY(0);
 }
 
-.portfolio-cr .items.width2 {
+.catalog-cr .items.width2 {
   width: 25%;
 }
 
-.portfolio-cr .items .cont {
+.catalog-cr .items .cont {
   position: absolute;
   bottom: 15px;
   left: 30px;
@@ -5344,20 +5348,20 @@ span:hover {
   transition: all 0.4s;
 }
 
-.portfolio-cr .items .cont.flex {
+.catalog-cr .items .cont.flex {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
 }
 
-.portfolio-cr .items .cont h6 {
+.catalog-cr .items .cont h6 {
   font-size: 17px;
   font-weight: 600;
   line-height: 1.2;
   margin-bottom: 5px;
 }
 
-.portfolio-cr .items .cont span {
+.catalog-cr .items .cont span {
   margin-left: auto;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -5365,17 +5369,17 @@ span:hover {
   font-size: 12px;
 }
 
-.portfolio-cr .items .cont span a {
+.catalog-cr .items .cont span a {
   opacity: 0.7;
   margin: 0 5px;
   line-height: 1.2;
 }
 
-.portfolio-frl .filtering .filter {
+.catalog-frl .filtering .filter {
   display: inline-block;
 }
 
-.portfolio-frl .filtering span {
+.catalog-frl .filtering span {
   color: #eee;
   font-size: 13px;
   letter-spacing: 1px;
@@ -5386,7 +5390,7 @@ span:hover {
   position: relative;
 }
 
-.portfolio-frl .filtering span:after {
+.catalog-frl .filtering span:after {
   content: "";
   width: 100%;
   height: 2px;
@@ -5400,25 +5404,25 @@ span:hover {
   transition: all 0.4s;
 }
 
-.portfolio-frl .filtering .active {
+.catalog-frl .filtering .active {
   color: #12c2e9;
 }
 
-.portfolio-frl .filtering .active:after {
+.catalog-frl .filtering .active:after {
   bottom: 0;
   opacity: 1;
 }
 
-.portfolio-frl .gallery .items {
+.catalog-frl .gallery .items {
   padding: 0 40px;
   margin: 40px 0;
 }
 
-.portfolio-frl .gallery .items.lg-mr {
+.catalog-frl .gallery .items.lg-mr {
   margin-top: 100px;
 }
 
-.portfolio-frl .gallery .items .item-img {
+.catalog-frl .gallery .items .item-img {
   overflow: hidden;
   position: relative;
   -webkit-transition: all 0.3s;
@@ -5429,20 +5433,20 @@ span:hover {
   border-radius: 5px;
 }
 
-.portfolio-frl .gallery .items .item-img > a {
+.catalog-frl .gallery .items .item-img > a {
   display: block;
 }
 
-.portfolio-frl .gallery .items .item-img:hover img {
+.catalog-frl .gallery .items .item-img:hover img {
   -webkit-clip-path: inset(5px 10px);
   clip-path: inset(5px 10px);
 }
 
-.portfolio-frl .gallery .items .item-img:hover .cont {
+.catalog-frl .gallery .items .item-img:hover .cont {
   opacity: 1;
 }
 
-.portfolio-frl .gallery .items .item-img img {
+.catalog-frl .gallery .items .item-img img {
   height: 100%;
   width: 100%;
   -webkit-clip-path: inset(0);
@@ -5454,36 +5458,36 @@ span:hover {
   transition: all 0.5s;
 }
 
-.portfolio-frl .gallery .items .cont {
+.catalog-frl .gallery .items .cont {
   margin-bottom: 30px;
 }
 
-.portfolio-frl .gallery .items .cont h6 {
+.catalog-frl .gallery .items .cont h6 {
   font-size: 22px;
   font-weight: 500;
   margin-bottom: 5px;
 }
 
-.portfolio-frl .gallery .items .cont p {
+.catalog-frl .gallery .items .cont p {
   font-size: 13px;
 }
 
-.portfolio-frl .gallery .items .tags {
+.catalog-frl .gallery .items .tags {
   margin-top: 30px;
 }
 
-.portfolio-frl .gallery .items .tags span {
+.catalog-frl .gallery .items .tags span {
   padding: 8px 12px;
   background: rgba(255, 255, 255, 0.04);
   margin-right: 5px;
   font-size: 12px;
 }
 
-.portfolio.full-bg {
+.catalog.full-bg {
   position: relative;
 }
 
-.portfolio.full-bg .cluom {
+.catalog.full-bg .cluom {
   height: 90vh;
   padding: 0;
   position: relative;
@@ -5494,26 +5498,26 @@ span:hover {
   transition: all 0.4s;
 }
 
-.portfolio.full-bg .cluom.current {
+.catalog.full-bg .cluom.current {
   background: rgba(0, 0, 0, 0.3);
 }
 
-.portfolio.full-bg .cluom:hover .info {
+.catalog.full-bg .cluom:hover .info {
   color: inherit;
 }
 
-.portfolio.full-bg .cluom:hover .info:after {
+.catalog.full-bg .cluom:hover .info:after {
   height: 100%;
 }
 
-.portfolio.full-bg .cluom:hover .more {
+.catalog.full-bg .cluom:hover .more {
   -webkit-transform: translateY(0);
   -ms-transform: translateY(0);
   transform: translateY(0);
   opacity: 1;
 }
 
-.portfolio.full-bg .cluom .info {
+.catalog.full-bg .cluom .info {
   padding: 40px 10px 40px 20px;
   color: #fff;
   position: relative;
@@ -5524,7 +5528,7 @@ span:hover {
   overflow: hidden;
 }
 
-.portfolio.full-bg .cluom .info:after {
+.catalog.full-bg .cluom .info:after {
   content: "";
   position: absolute;
   top: 0;
@@ -5538,7 +5542,7 @@ span:hover {
   transition: all 0.4s;
 }
 
-.portfolio.full-bg .cluom .info h6 {
+.catalog.full-bg .cluom .info h6 {
   font-size: 11px;
   font-weight: 400;
   letter-spacing: 4px;
@@ -5546,11 +5550,11 @@ span:hover {
   margin-bottom: 10px;
 }
 
-.portfolio.full-bg .cluom .info h5 {
+.catalog.full-bg .cluom .info h5 {
   font-size: 21px;
 }
 
-.portfolio.full-bg .cluom .more {
+.catalog.full-bg .cluom .more {
   position: absolute;
   bottom: 50px;
   right: 50px;
@@ -5567,13 +5571,13 @@ span:hover {
   transition: all 0.4s;
 }
 
-.portfolio.full-bg .cluom .more i {
+.catalog.full-bg .cluom .more i {
   font-size: 10px;
   margin-left: 2px;
 }
 
-.portfolio.full-bg .glry-img,
-.portfolio.full-bg .bg-img {
+.catalog.full-bg .glry-img,
+.catalog.full-bg .bg-img {
   position: absolute;
   top: 0;
   left: 0;
@@ -5581,11 +5585,11 @@ span:hover {
   height: 100%;
 }
 
-.portfolio.full-bg .glry-img {
+.catalog.full-bg .glry-img {
   overflow: hidden;
 }
 
-.portfolio.full-bg .glry-img .bg-img {
+.catalog.full-bg .glry-img .bg-img {
   -webkit-transform: scale(1.1, 1.1);
   -ms-transform: scale(1.1, 1.1);
   transform: scale(1.1, 1.1);
@@ -5597,7 +5601,7 @@ span:hover {
   background-position: center center;
 }
 
-.portfolio.full-bg .glry-img .bg-img.current {
+.catalog.full-bg .glry-img .bg-img.current {
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
@@ -8286,7 +8290,7 @@ footer .item .copy-right p a {
 
   .navbar .logo {
     margin-left: 15px;
-    width: 50px;
+    width: 120px;
   }
 
   .nav-scroll .navbar-collapse .nav-link,
@@ -8525,14 +8529,14 @@ footer .item .copy-right p a {
     display: none;
   }
 
-  .portfolio .filtering {
+  .catalog .filtering {
     padding-left: 0;
     padding-right: 0;
     margin-bottom: 30px;
   }
 
-  .portfolio-frl .gallery .items,
-  .portfolio .gallery .items {
+  .catalog-frl .gallery .items,
+  .catalog .gallery .items {
     padding: 0 10px;
     margin: 10px 0;
   }
@@ -8670,7 +8674,7 @@ footer .item .copy-right p a {
   }
 
   .navbar .logo {
-    width: 40px;
+    width: 120px;
   }
 
   .hamenu .menu-links .main-menu > li {
@@ -8686,7 +8690,7 @@ footer .item .copy-right p a {
   }
 
   .topnav .logo {
-    width: 40px;
+    width: 120px;
   }
 
   .btn-curve {
@@ -8918,20 +8922,20 @@ footer .item .copy-right p a {
     font-size: 7vw;
   }
 
-  .portfolio .filtering .filter {
+  .catalog .filtering .filter {
     padding: 15px 5px;
     border-radius: 10px;
   }
 
-  .portfolio .filtering span {
+  .catalog .filtering span {
     margin: 5px 10px;
   }
 
-  .portfolio .filtering span:after {
+  .catalog .filtering span:after {
     display: none;
   }
 
-  .portfolio-cr .items {
+  .catalog-cr .items {
     width: 100% !important;
   }
 
@@ -9093,16 +9097,16 @@ footer .item .copy-right p a {
     font-size: 28px;
   }
 
-  .portfolio .gallery .items {
+  .catalog .gallery .items {
     padding: 0 15px;
     margin: 0 0 50px;
   }
 
-  .portfolio .gallery .items.lg-mr {
+  .catalog .gallery .items.lg-mr {
     margin-top: 50px;
   }
 
-  .portfolio .filtering.smplx span {
+  .catalog .filtering.smplx span {
     margin: 5px 15px;
   }
 

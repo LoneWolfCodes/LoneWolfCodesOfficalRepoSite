@@ -12,11 +12,11 @@ const Intro2 = ({ sliderRef }) => {
           <div className="col-lg-6 valign">
             <div className="cont md-mb50">
               <div className="sub-title mb-5">
-                <h6>Lone Wolf Codes 8-step</h6>
+                <h6>Lone Wolves Digital 6-step solution.</h6>
               </div>
-              <h1 className="mb-10 fw-600">WEB DEVELOPMENT PROCESS.</h1>
+              <h1 className="mb-10 fw-600">OUR PROJECT MANAGEMENT PROCESS.</h1>
               <p>
-              Here at Lone Wolf Codes, there’s always a plan, if not then we automatically plan to fail! Thankfully you don’t have to worry about that. We use an 8-step solution to bring you the best quality websites. Without you lifting a finger.
+              Here at Lone Wolves Digital, there’s always a plan, if not then we automatically plan to fail! Thankfully you don’t have to worry about that. We have a 6-step solution to bring you the best quality digital products and services. Without you lifting a finger.
               </p>
               <Link
                 href={`/about/about-dark`}

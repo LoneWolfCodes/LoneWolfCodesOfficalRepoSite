@@ -40,8 +40,8 @@ const MobileAppPricingPlanDark = () => {
             { id: 1, name: "Home", url: "/" },
             {
               id: 2,
-              name: "Portfolio",
-              url: "/mobile-app/portfolio-dark",
+              name: "catalog",
+              url: "/mobile-app/catalog-dark",
             },
           ]}
         />

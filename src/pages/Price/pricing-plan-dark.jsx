@@ -3,7 +3,7 @@ import React from "react";
 import Head from "next/head";
 import DarkTheme from "../../layouts/Dark";
 import NavbarMobileApp from "../../components/Navbar-mobile-app/navbar-mobile-app";
-import PricePackages2 from "../../components/Price-packages2/price-packages2";
+import pricePackages2 from "../../components/price-packages2/price-packages2";
 import Footer2 from "../../components/Footer2/footer2";
 // import Faq from "../../components/Faq/faq";
 import PageHeader2 from "../../components/Page-header2/page-header2";
@@ -43,7 +43,7 @@ const MobileAppPricingPlanDark = () => {
       </div>
         {/* <NavbarMobileApp nr={navbarRef} /> */}
        
-        <PricePackages2 />
+        <pricePackages2 />
         {/* <DownloadApp /> */}
         {/* <Faq /> */}
         <Footer2 />

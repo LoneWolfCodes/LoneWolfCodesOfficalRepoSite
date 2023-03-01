@@ -8,9 +8,11 @@ import Footer2 from "../../components/Footer2/footer2";
 import PagesHeader from "../../components/Pages-header";
 import AboutIntro from "../../components/About-intro/index";
 import DarkTheme from "../../layouts/Dark";
-import Services3 from "../../components/Services3/services3";
+import Services6 from "../../components/Services6/services6";
 import SkillsRequired from "../../components/Team/SkillsRequired";
 import MinimalArea from "../../components/Minimal-Area/minimal-area";
+// import Services3 from "../../components/Services3/services3";
+
 
 
 const About = () => {
@@ -45,7 +47,8 @@ const About = () => {
       <Navbar nr={navbarRef} lr={logoRef} from="about-dark" />
       <PagesHeader />
       <AboutIntro />
-      <Services3 />
+      {/* <Services3/> */}
+      <Services6 />
       <Services style="4item" />
       <VideoWithTestimonials />
       <SkillsRequired/>

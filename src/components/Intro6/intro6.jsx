@@ -10,10 +10,11 @@ const Intro6 = () => {
           <div className="col-lg-6 valign">
             <div className="caption">
               <h1 className="mb-20">
-                Choose the right payment plan for you!
+              Get the right quote for you! 
               </h1>
               <p>
-              Thank you for choosing Lone Wolf Codes, I know you will find the right price just for you. Please note that I have placed 3 available starting price packages. Custom plans come with extra cost and will be made available in the questionnaire or on request.               </p>
+              Thank you for choosing Lone Wolves Digital, I know you will find the right deal just for you! Please note that there are no pricing packages available. As every project is different so, is each quote.
+              </p>
 
               {/* <div className="butons mt-40">
                 <a href="#0" className="butn-gr rounded buton">

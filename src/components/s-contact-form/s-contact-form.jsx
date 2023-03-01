@@ -20,10 +20,10 @@ const SContactForm = ({ noLine }) => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head  text-center">
               <h6 className="wow fadeIn" data-wow-delay=".5s">
-                Contact me
+                Contact Lone Wolves Digital
               </h6>
               <h3 className="wow color-font">
-              and help me, help you, turn your ideas into magic. 
+              Help us, help you, turn your ideas into magic. 
               </h3>
             </div>
           </div>

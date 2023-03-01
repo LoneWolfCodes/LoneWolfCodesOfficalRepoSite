@@ -23,7 +23,7 @@ const MinimalArea2 = () => {
         height={400}
 
                 className="thumparallax-down"
-                src="/img/efe-kurnaz-RnCPiXixooY-unsplash-min.jpg"
+                src="/img/andras-vas-Bd7gNnWJBkU-unsplash (1).jpg"
                 alt=""
                 
               />
@@ -34,24 +34,28 @@ const MinimalArea2 = () => {
               <h4 className="color-font">Dream, Design & Develop.</h4>
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                I trust that you have a solid understanding of My process from here on out. My process is quite lengthy, but that’s not your problem that’s why I am here. You can cancel at any time, please see my T&C’s. Feel free to ask any questions regarding Lone Wolf Codes.  
+                I trust that you have a solid understanding of our process from here on out. Our process is a bit lengthy, but that’s not your problem that’s why I am here. You can cancel at any time, please see our T&Cs. Feel free to ask any questions regarding Lone Wolves Digital.
                 </p>
               </Split>
               <ul>
                 <li className="wow fadeInUp" data-wow-delay=".2s">
-                	Hush, most things happen in the background, so you don’t need to worry.
+                • Hush, most things happen in the background, so you don’t need to worry.
                 </li>
                 <li className="wow fadeInUp" data-wow-delay=".4s">
-                	You keep the site you paid for even after the cancellation of step 8                </li>
+                • You get to sit back and relax as I manage your project!
+	
+                </li>
                 <li className="wow fadeInUp" data-wow-delay=".2s">
-                	I will take care of hosting. This keeps your site live and available for all to see.                </li>
+                • Lone Wolves Digital will assemble all the right skills for your project.
+                </li>
                 <li className="wow fadeInUp" data-wow-delay=".4s">
-                	No need to worry about security as my hosting provider is trusted and secure.                </li>
+                • No need to worry about security as everything is secured in the clouds.
+                </li>
                 <li className="wow fadeInUp" data-wow-delay=".4s">
-                	I create backups of my site for every change made.  
+                • Lone Wolves Digital, will create backups of work done.
                 </li>
               </ul>
-              <Link href={`/T&C-list/T&C-list-dark`}>
+              <Link href={`/t&c-list/t&c-list-dark`}>
                 <a
                   className="butn bord curve mt-40 wow fadeInUp"
                   data-wow-delay=".8s"

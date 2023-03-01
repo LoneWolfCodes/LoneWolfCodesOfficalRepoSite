@@ -13,14 +13,13 @@ const Services3 = () => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head">
               <h6 className="wow fadeIn">
-              My 8 STEP  
+              OUR 6-STEP SOLUTION
               </h6>
               <h3 className="wow color-font ">
-              WEB DEVELOPMENT PLAN  <br/>IN DETAIL.
+              PROJECT MANAGEMENT PLAN  <br/>IN DETAIL.
               </h3>
               <p>
-              Whether you are an individual freelancer, NGO, NPO, an established business, or just starting out. Here at Lone Wolf Codes, we have an 8-step web development plan to suite your needs and budget without compromising on quality or performance. Here is My step-by-step methodology for webdevelopment.
-              </p>
+              Whether you are an individual Digital Nomad, NGO, NPO, SME  a conglomerate, or just starting. Here at Lone Wolves Digital, we have a 6-step solution to suit your needs without compromising on quality or performance. Here is our 6-step methodology for any project.              </p>
             </div>
           </div>
         </div>
@@ -34,7 +33,7 @@ const Services3 = () => {
               </span>
               <h5>GOAL IDENTIFICATION</h5>
               <p>
-              In this first step we,I need to understand how I can help YOU. I need to know what is your website for, this way I can determine exactly what it needs. Whether it’s a landing page, Magazine, E-commerce, Blogs, Portfolio, Social media, Directory or a Contact Page. Every website made here is unique, and it all starts here.
+              In this first step, we first need to understand how we can help YOU. We need to know what your objectives are in contacting us. How soon do you need it and what are you willing to pay for it? This way we can determine exactly who and what we need to bring you the best outcome. Whether it’s 1. Admin & Customer Support, 2. Business, &   Finance, 3. Data & AI Services, 4. Engineering & Architecture, 5. Graphics Design & Photography, 6. HR & Training, 7. Legal, 8. Lifestyle, 9. Sales & Digital Marketing, 10. Software development & IT, 11. Video, Audio & Animation or 12. Writing & Translation. Every project is unique, and it all starts here.
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke ">
@@ -53,8 +52,7 @@ const Services3 = () => {
               </span>
               <h5>SCOPE DEFINITION</h5>
               <p>
-              Once we have classified your website, I can determine exactly what will go into your website. This may be fonts, colours, text, pictures, videos and or animations, the number of pages and the features it might include. Please avoid setting out with one goal in mind, but then gradually expanding and evolving. This will hinder the launch of the site. I can however make many changes in the maintenance phase step 8 
-              </p>
+              Once we have classified your project, we can determine exactly what will go into it. By doing our research. These may be fonts, colors, technology, tools, pictures, video, audio, and animations, all the features and time included. The delivery time may vary depending on the project scope. Please avoid setting out with one goal in mind, but then gradually expanding and evolving. This will hinder the launch of your project. Let’s eat this elephant one bite at a time.              </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
                   <span></span>
@@ -70,10 +68,9 @@ const Services3 = () => {
                 <h3>Step 3</h3>
                 <i className="ion-map"></i>
               </span>
-              <h5>SITEMAP AND WIREFRAME CREATION</h5>
+              <h5>Plan</h5>
               <p>
-              With the scope at hand and clearly defined. We begin with the sitemap. Think of this as the floor plan of a building, here is where we define where all the content and features from the scope will go, it clarifies the idea of the website information, and architecture and explains the relationships between the various pages and content elements. Although a wireframe doesn’t contain any final design elements, it does act as a guide for how the site will ultimately look. It is also the inspiration for the formatting of various elements.
-              </p>
+              With the scope at hand and clearly defined. We begin plotting, we will work together to evaluate the terms of the project. Think of this as the floor plan of the building, here is where we define and place all the elements and features from the scope. Depending on the client, this may already be well-defined. If not, we will create tailor-made questions to clarify the idea based on the information provided, and to create relationships between the various component and elements involved in your project.               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
                   <span></span>
@@ -90,10 +87,9 @@ const Services3 = () => {
                 <h3>Step 4</h3>
                 <i className="ion-ios-color-wand"></i>
               </span>
-              <h5>CONTENT CREATION</h5>
+              <h5>Manifest</h5>
               <p>
-              With the sitemap done. I can start creating content for the individual pages, always keeping search engine optimization (SEO) in mind to help keep pages focused on a single topic. Without it, the site visitors will have no actions to take on the site. Content also boosts a site’s visibility for search engines. The practice of creating and improving content to rank well in search is known as search engine optimization or SEO.
-              </p>
+              With the plan complete we can start creating your project. From the scope, we will begin placing the right elements into place. With skills ranging from 1. Admin & Customer Support, 2. Business, &   Finance, 3. Data & AI Services, 4. Engineering & Architecture, 5. Graphics Design & Photography, 6. HR & Training, 7. Legal, 8. Lifestyle, 9. Sales & Digital Marketing, 10. Software development & IT, 11. Video, Audio & Animation or 12. Writing & Translation.   No matter the task our team will do it, step by step you can count on us.               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
                   <span></span>
@@ -109,15 +105,15 @@ const Services3 = () => {
 
 
         <div className="row">
-        <div className="col-lg-3 col-md-6 items md-mb30">
+        <div className="col-lg-5 col-md-3 items md-mb30">
             <div className="item wow fadeIn">
               <span className="icon wow color-font">
                 <h3>Step 5</h3>
-                <i className="ion-ios-eye-outline"></i>
+                <i className="ion-android-bus"></i>
               </span>
-              <h5>VISUAL ELEMENTS</h5>
+              <h5>Deliver </h5>
               <p>
-              From the scope, we will begin placing the right elements into place. This starts with visual branding. Depending on the client, this may already be well-defined. If not, I will begin with style tiles, mood boards, and element collages. Finally, it’s time to create the visual style for the site. This part of the design process will often be shaped by existing branding elements, colour choices, and logos. Please remember that massive, beautiful images can seriously slow down your site. So, I use Optimizilla to compress images without losing quality, saving on page-load times. 
+              Starting with quality assurance we ensure that your project is up to standards. No matter your location all you need is a stable internet connection and a working powered desktop, laptop, tablet, or phone. We will deliver it however, you want it. You can have it your way. Signed sealed and delivered right to your electronic device. 
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke ">
@@ -128,15 +124,15 @@ const Services3 = () => {
           </div>
           <br/>
 
-          <div className="col-lg-3 col-md-6 items active md-mb30 ">
+          <div className="col-lg-5 col-md-3 items active md-mb30 ">
             <div className="item wow fadeIn">
               <span className="icon wow color-font">
                 <h3>Step 6</h3>
-                <i className="ion-bug"></i>
+                <i className="ion-chatbox-working"></i>
               </span>
-              <h5>TESTING</h5>
+              <h5>SUPPORT </h5>
               <p>
-              We need to know that the site is responsive, nothing really complicated. It just means that my site adjusts its width and height for different screen sizes, like phones, tablets and laptops or wide screens like smart TVs. I use a combination of manual browsing with automated site crawlers to identify everything from user experience issues to simple broken links.
+              There may still be some elements of your project that need change. For example, websites and apps are a fluid and ongoing process that requires constant maintenance.  Depending on your project, you may or may not need support. Either way, never fear we’re always here.
               </p>
               <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -147,7 +143,7 @@ const Services3 = () => {
           </div>
           <br/>
 
-          <div className="col-lg-3 col-md-6 items sm-mb30">
+          {/* <div className="col-lg-3 col-md-6 items sm-mb30">
             <div className="item wow fadeIn" >
               <span className="icon wow color-font">
                 <h3>Step 7</h3>
@@ -163,11 +159,11 @@ const Services3 = () => {
                 </a>
               </Link>
             </div>
-          </div>
+          </div> */}
           <br/>
 
 
-          <div className="col-lg-3 col-md-6 items">
+          {/* <div className="col-lg-3 col-md-6 items">
             <div className="item wow fadeIn">
               <span className="icon wow color-font">
                 <h3>Step 8</h3>
@@ -183,7 +179,7 @@ const Services3 = () => {
                 </a>
               </Link>
             </div>
-          </div>          
+          </div>           */}
         </div>
       </div>
     </section>

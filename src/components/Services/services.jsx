@@ -13,10 +13,10 @@ const Services = ({ style, lines }) => {
           <div className="col-lg-8 col-md-10">
             <div className="sec-head  text-center">
               <h6 className="wow fadeIn" data-wow-delay=".5s">
-               My code is your command.
+              WHAT YOU DEMAND, WE COMMAND!
               </h6>
               <h3 className="wow color-font">
-              Here&apos;s what I can do for you.
+              Here&apos;s what Lone Wolves Digital can do for you.
               </h3>
             </div>
           </div>
