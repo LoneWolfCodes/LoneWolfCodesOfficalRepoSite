@@ -41,7 +41,7 @@ const Services6 = () => {
             <h6 className="numb">Step 03</h6>
             <h5 className="color-font">Plan</h5>
             <p>
-            Once you know the purpose of your request and it's components, this can only mean it’s time to plan the construction.
+            Once you know the purpose of your request and it&apos; components, this can only mean it&apos;s time to plan the construction.
             </p>
             <Link href="/lonewolvesdigital/process-dark">
               <a className="custom-font more main-color">Read More</a>
@@ -55,7 +55,7 @@ const Services6 = () => {
             <h6 className="numb">Step 04</h6>
             <h5 className="color-font">Manifest</h5>
             <p>
-            It's magic time, we will make sure that no matter the task we will ensure that the images, video, text and animation are the correct combination, just for you. 
+            It&apos;s magic time, we will make sure that no matter the task we will ensure that the images, video, text and animation are the correct combination, just for you. 
             </p>
             <Link href="/lonewolvesdigital/process-dark">
               <a className="custom-font more main-color">Read More</a>
@@ -84,7 +84,7 @@ const Services6 = () => {
             <h6 className="numb">Step 06</h6>
             <h5 className="color-font">SUPPORT</h5>
             <p>
-            Some projects are bigger than other, that's why we stay with you for the long run. Feel free to come back for some TLC if needed.
+            Some projects are bigger than other, that&apos;s why we stay with you for the long run. Feel free to come back for some TLC if needed.
             </p>
             <Link href="/lonewolvesdigital/process-dark">
               <a className="custom-font more main-color">Read More</a>

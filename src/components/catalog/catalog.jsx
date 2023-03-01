@@ -6,7 +6,7 @@ import Image from 'next/image';
 
 
 const catalog = ({ grid, filterPosition }) => {
-  React.useEffect(() => {
+  useReact.useEffect(() => {
     setTimeout(() => {
       initIsotope();
     }, 1000);

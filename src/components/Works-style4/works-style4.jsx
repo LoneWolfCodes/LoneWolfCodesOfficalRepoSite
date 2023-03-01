@@ -166,7 +166,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Finance.</h6>
-                  <p>Money talks all else walks and that's why money matters!</p>
+                  <p>Money talks all else walks and that'&apos;s why money matters!</p>
                 </div>
                 <Link href={`/catalog/business-finance`}>
                   <a className="rota">
@@ -284,7 +284,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Architecture</h6>
-                  <p>Design the future with Lone Wolves Digital, explore the world's most innovative architecture!</p>
+                  <p>Design the future with Lone Wolves Digital, explore the world&apos;s most innovative architecture!</p>
                 </div>
                 <Link href={`/catalog/engineering-architecture`}>
                   <a className="rota">
@@ -344,7 +344,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Packaging & Merchandise Design </h6>
-                  <p>Unwrap your brand's potential and elevate your packaging and merchandise design with the help of Lone Wolves Digital today!</p>
+                  <p>Unwrap your brand&apos;s potential and elevate your packaging and merchandise design with the help of Lone Wolves Digital today!</p>
                 </div>
                 <Link href={`/catalog/graphics-design-photography`}>
                   <a className="rota">
@@ -435,7 +435,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Visual Design</h6>
-                  <p>Unleash  creativity and bring your vision to life with Lone Wolves Digital Art & Illustration services!</p>
+                  <p>Unleash creativity and bring your vision to life with Lone Wolves Digital Art & Illustration services!</p>
                 </div>
                 <Link href={`/catalog/graphics-design-photography`}>
                   <a className="rota">
@@ -570,7 +570,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Print Design</h6>
-                  <p>For the print that packs a punch choose Lone Wolves Digital and make your message stand out with uur professional design services</p>
+                  <p>For the print that packs a punch choose Lone Wolves Digital and make your message stand out with our professional design services</p>
                 </div>
                 <Link href={`/catalog/graphics-design-photography`}>
                   <a className="rota">
@@ -661,7 +661,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Photography</h6>
-                  <p>Capture Life's Moments and experience the magic of photography with Lone Wolves Digital expert Photographers!</p>
+                  <p>Capture Life&apos;s Moments and experience the magic of photography with Lone Wolves Digital expert Photographers!</p>
                 </div>
                 <Link href={`/catalog/graphics-design-photography`}>
                   <a className="rota">
@@ -713,7 +713,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>HR & Training</h6>
-                  <p>Boost Performance your team's potential with Lone Wolves Digital's HR and Training Solutions!!</p>
+                  <p>Boost Performance your team&apos;s potential with Lone Wolves Digital&apos;s HR and Training Solutions!!</p>
                 </div>
                 <Link href={`/catalog/hr-training`}>
                   <a className="rota">
@@ -889,7 +889,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Websites</h6>
-                  <p> We build more than just websites – we create online experiences. So, Why not let us at Lone Wolves Digital Craft your digital presence with our expert web developers!</p>
+                  <p> We build more than just websites. We create online experiences. So, Why not let us at Lone Wolves Digital Craft your digital presence with our expert web developers!</p>
                 </div>
                 <Link href={`/catalog/sales-digital-marketing`}>
                   <a className="rota">
@@ -1145,7 +1145,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Support & Cybersecurity</h6>
-                  <p>Don't leave your security to chance – let our experts protect your business today. Our support and cybersecurity services offer complete peace of mind for your business!</p>
+                  <p>Don&apos;t leave your security to chance! Let our experts protect your business today. Our support and cybersecurity services offer complete peace of mind for your business!</p>
                 </div>
                 <Link href={`/catalog/software-development-it`}>
                   <a className="rota">
@@ -1185,7 +1185,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Editing & Post-Production</h6>
-                  <p>From raw footage to polished final product, we're your one-stop shop for all your post-production needs! Let Lone Wolves Digital transform your basic edits into a masterpiece with our expert editing and post-production services!</p>
+                  <p>From raw footage to polished final product, we&apos;re your one-stop shop for all your post-production needs! Let Lone Wolves Digital transform your basic edits into a masterpiece with our expert editing and post-production services!</p>
                 </div>
                 <Link href={`/catalog/video-audio-animation`}>
                   <a className="rota">
@@ -1260,7 +1260,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Product Explainer Videos</h6>
-                  <p>Show, don't tell. Let our product and explainer videos do the talking for you, when you show not tell. Let our product and explainer videos do the talking for you!</p>
+                  <p>Show, don&apos;t tell. Let our product and explainer videos do the talking for you, when you show not tell. Let our product and explainer videos do the talking for you!</p>
                 </div>
                 <Link href={`/catalog/video-audio-animation`}>
                   <a className="rota">
@@ -1337,7 +1337,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Audio Streaming</h6>
-                  <p>Listen to your heart's content with our top-rated audio streaming services!</p>
+                  <p>Listen to your heart&apos;s content with our top-rated audio streaming services!</p>
                 </div>
                 <Link href={`/catalog/video-audio-animation`}>
                   <a className="rota">
@@ -1466,7 +1466,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Book & Ebook Writing</h6>
-                  <p>If Knowledge is power then it's time to unleash your potential with books and e-books that allow you to explore new worlds!</p>
+                  <p>If Knowledge is power then it&apos;s time to unleash your potential with books and e-books that allow you to explore new worlds!</p>
                 </div>
                 <Link href={`/catalog/writing-translation`}>
                   <a className="rota">
@@ -1576,7 +1576,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Editing & Beta Reading</h6>
-                  <p>By using Lone Wolves Digtial's professional Editing & Beta Reading services, you can ensure that your written content is polished, error-free, and ready to impress your readers. Whether you are a writer looking to improve your work, a business looking to produce high-quality content, or a student looking to ace your assignments, Editing & Beta Reading can help you achieve your goals. With a keen eye for detail and a commitment to excellence, professional editors and beta readers can help you take your writing to the next level!</p>
+                  <p>By using Lone Wolves Digtial&apos;s professional Editing & Beta Reading services, you can ensure that your written content is polished, error-free, and ready to impress your readers. Whether you are a writer looking to improve your work, a business looking to produce high-quality content, or a student looking to ace your assignments, Editing & Beta Reading can help you achieve your goals. With a keen eye for detail and a commitment to excellence, professional editors and beta readers can help you take your writing to the next level!</p>
                 </div>
                 <Link href={`/catalog/writing-translation`}>
                   <a className="rota">

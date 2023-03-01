@@ -1,5 +1,6 @@
 // eslint-disable @next/next/no-img-element 
 import React from "react";
+import Image from 'next/image';
 import Link from "next/link";
 import appData from "../../data/app.json";
 import { handleDropdown, handleMobileDropdown } from "../../common/navbar";
@@ -17,12 +18,12 @@ const Navbar = ({ lr, nr, theme }) => {
           <a className="logo">
             {theme ? (
               theme === "themeL" ? (
-                <img ref={lr} src={appData.darkLogo} alt="logo" />
+                <Image ref={lr} src={appData.darkLogo} alt="logo" />
               ) : (
-                <img ref={lr} src={appData.lightLogo} alt="logo" />
+                <Image ref={lr} src={appData.lightLogo} alt="logo" />
               )
             ) : (
-              <img ref={lr} src={appData.lightLogo} alt="logo" />
+              <Image ref={lr} src={appData.lightLogo} alt="logo" />
             )}
           </a>
         </Link>
