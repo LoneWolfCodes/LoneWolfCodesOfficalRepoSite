@@ -166,7 +166,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Finance.</h6>
-                  <p>Money talks all else walks and that'&apos;s why money matters!</p>
+                  <p>Money talks all else walks and that&apos;s why money matters!</p>
                 </div>
                 <Link href={`/catalog/business-finance`}>
                   <a className="rota">
@@ -1185,7 +1185,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Editing & Post-Production</h6>
-                  <p>From raw footage to polished final product, we&apos;re your one-stop shop for all your post-production needs! Let Lone Wolves Digital transform your basic edits into a masterpiece with our expert editing and post-production services!</p>
+                  <p>From raw footage to polished final product, we&apos;re your one stop shop for all your post-production needs! Let Lone Wolves Digital transform your basic edits into a masterpiece with our expert editing and post-production services!</p>
                 </div>
                 <Link href={`/catalog/video-audio-animation`}>
                   <a className="rota">
@@ -1371,7 +1371,7 @@ const WorksStyle4 = () => {
               <div className="item-img">
                 <div className="cont">
                   <h6>Music</h6>
-                  <p>Feel the beat, hear the magic and let the sound of your dreams From classical to hip hop, we have it all!</p>
+                  <p>Feel the beat, hear the magic and let the sound of your dreams from, classical to hip hop, we have it all!</p>
                 </div>
                 <Link href={`/catalog/video-audio-animation`}>
                   <a className="rota">
