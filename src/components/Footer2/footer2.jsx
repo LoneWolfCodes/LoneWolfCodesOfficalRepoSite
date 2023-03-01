@@ -227,7 +227,7 @@ const Footer2 = () => {
 
                 <li>
                   <span className="icon pe-7s-angle-right"></span>
-                  <Link href="/price/Price-Details-dark">
+                  <Link href="/price/price-details-dark">
                     <a>Price</a>
                   </Link>
                 </li>
