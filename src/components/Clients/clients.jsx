@@ -6,6 +6,8 @@ import Split from "../Split";
 const Clients = ({theme}) => {
   var first = ClientsData.slice(0, ClientsData.length / 2);
   var second = ClientsData.slice(4, ClientsData.length);
+  var third = ClientsData.slice(4, ClientsData.length);
+
   return (
     <section className="clients section-padding">
       <div className="container">
@@ -13,11 +15,11 @@ const Clients = ({theme}) => {
           <div className="col-lg-4 valign md-mb50">
             <div className="sec-head mb-0">
               <h6 className="wow fadeIn" data-wow-delay=".5s">
-                MY TOOLS
+              Tools and resources.
               </h6>
-              <h3 className="wow mb-20 color-font">I WORK WITH THE BEST AND FORGET THE REST!</h3>
+              <h3 className="wow mb-20 color-font">WE WORK WITH THE BEST AND FORGET THE REST!</h3>
               <p>
-              Here are some of the world’s finest tools and resources, that will bring your websites to life!
+              Here are some of the world’s finest tools and resources, that to bring your digital products and services to life!
               </p>
             </div>
           </div>
@@ -89,6 +91,7 @@ const Clients = ({theme}) => {
                           ? ".3"
                           : ""
                       }s`}
+                      
                     >
                       <div className="img">
                         {theme === "light" ? (
@@ -105,9 +108,12 @@ const Clients = ({theme}) => {
                             {item.url}
                           </a>
                         </Split>
+                        </div>
                       </div>
-                    </div>
+                       
                   </div>
+
+                  
                 ))}
               </div>
             </div>

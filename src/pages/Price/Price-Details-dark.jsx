@@ -13,8 +13,8 @@ import Services8 from "../../components/Services8/services8";
 import Screenshots from "../../components/Screenshots/screenshots";
 import Progress from "../../components/Progress/progress";
 import VideoWithTeam from "../../components/Video-with-team/video-with-team";
-import PricePackages from "../../components/Price-packages/price-packages";
-import PricePackages2 from "../../components/Price-packages2/price-packages2";
+import Questionair from "../../components/price-packages/price-packages";
+import Questionair2 from "../../components/price-packages2/price-packages2";
 
 import Testimonials from "../../components/Testimonials/testimonials";
 import DownloadApp from "../../components/Download-app/download-app";
@@ -50,10 +50,10 @@ const MobileAppDark = () => {
       </Head>
 
       <PageHeader2
-          title="Pricing Package"
+          title="Quotes."
           links={[
             // { id: 1, name: "Home", url: "/" },
-            // { id: 2, name: "Pricing Package", url: "/mobile-app/pricing-plan-dark" },
+            // { id: 2, name: "Quotes. ", url: "/mobile-app/pricing-plan-dark" },
           ]}
         />
 
@@ -74,8 +74,8 @@ const MobileAppDark = () => {
         {/* <Screenshots /> */}
         <Progress />
         {/* <VideoWithTeam /> */}
-        {/* <PricePackages /> */}
-        <PricePackages2 />
+        {/* <Questionair /> */}
+        <Questionair2 />
         {/* <MobileAppPricingPlanDark/> */}
         {/* <Testimonials /> */}
         {/* <DownloadApp /> */}

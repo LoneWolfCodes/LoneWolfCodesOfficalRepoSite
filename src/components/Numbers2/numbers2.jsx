@@ -34,7 +34,7 @@ const Numbers2 = () => {
             </div>
             <div className="col-lg-3 col-md-6">
               <div className="item md-mb50">
-                <span className="icon pe-7s-portfolio"></span>
+                <span className="icon pe-7s-catalog"></span>
                 <h3 className="custom-font">
                   &nbsp;
                   <CountUp redraw={true} end={133} duration="3">

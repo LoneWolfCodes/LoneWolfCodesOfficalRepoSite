@@ -37,7 +37,7 @@ const BlogListDark = () => {
       <Navbar nr={navbarRef} lr={logoRef} />
       <PageHeader
         className="sub-bg"
-        title="Lone Wolf Codes T&C."
+        title="Lone Wolves Digital T&C."
         paragraph="Let’s make sure we understand each other crystal clear."
       />
       <BlogListed blogs={blog2Data} />

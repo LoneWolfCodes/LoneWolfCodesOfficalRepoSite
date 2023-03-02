@@ -15,7 +15,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
     <section
       className={`${
         grid ? (grid === 3 ? "three-column" : null) : null
-      } portfolio section-padding pb-70`}
+      } catalog section-padding pb-70`}
     >
       {!hideFilter && (
         <div className="container">
@@ -23,7 +23,7 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
             <div className="col-lg-8 col-md-10">
               <div className="sec-head text-center">
                 <h6 className="wow fadeIn" data-wow-delay=".5s">
-                  Portfolio
+                  catalog
                 </h6>
                 <h3 className="wow color-font">
                   Our Recent Web Design &amp; <br /> Some Past Projects.
@@ -68,9 +68,9 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
+                <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                   <a className="imago wow">
-                    <Image src="/img/portfolio/portfolio/1/1.jpg" alt="image" layout='fill'/>
+                    <Image src="/img/catalog/catalog/1/1.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -95,9 +95,9 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
+                <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                   <a className="imago wow">
-                    <Image src="/img/portfolio/portfolio/1/2.jpg" alt="image" layout='fill'/>
+                    <Image src="/img/catalog/catalog/1/2.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -122,9 +122,9 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
+                <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                   <a className="imago wow">
-                    <Image src="/img/portfolio/portfolio/1/3.jpg" alt="image" layout='fill'/>
+                    <Image src="/img/catalog/catalog/1/3.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -149,9 +149,9 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
+                <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                   <a className="imago wow">
-                    <Image src="/img/portfolio/portfolio/1/4.jpg" alt="image" layout='fill'/>
+                    <Image src="/img/catalog/catalog/1/4.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -176,9 +176,9 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
+                <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                   <a className="imago wow">
-                    <Image src="/img/portfolio/portfolio/1/5.jpg" alt="image" layout='fill'/>
+                    <Image src="/img/catalog/catalog/1/5.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -203,9 +203,9 @@ const WorksStyle2 = ({ grid, hideFilter, filterPosition }) => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
+                <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                   <a className="imago wow">
-                    <Image src="/img/portfolio/portfolio/1/6.jpg" alt="image" layout='fill'/>
+                    <Image src="/img/catalog/catalog/1/6.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>

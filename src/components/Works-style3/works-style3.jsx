@@ -12,7 +12,7 @@ const WorksStyle3 = () => {
     }, 1000);
   }, []);
   return (
-    <section className="portfolio-cr section-padding pb-50">
+    <section className="catalog-cr section-padding pb-50">
       <div className="container">
         <div className="row">
           <div className="filtering text-center col-12">
@@ -30,10 +30,10 @@ const WorksStyle3 = () => {
             <div className="items graphic wow fadeInUp" data-wow-delay=".4s">
               <div className="item-img">
                 <Link
-                  href={`/project-details2/project-details2-dark`}
+                  href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                 >
                   <a className="imago wow">
-                    <Image src="/img/portfolio/cr/1.jpg" alt="image" layout='fill'/>
+                    <Image src="/img/catalog/cr/1.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -49,10 +49,10 @@ const WorksStyle3 = () => {
             <div className="items web brand wow fadeInUp" data-wow-delay=".4s">
               <div className="item-img">
                 <Link
-                  href={`/project-details2/project-details2-dark`}
+                  href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                 >
                   <a className="imago wow">
-                    <Image src="/img/portfolio/cr/2.jpg" alt="image" layout='fill'/>
+                    <Image src="/img/catalog/cr/2.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -71,10 +71,10 @@ const WorksStyle3 = () => {
             >
               <div className="item-img">
                 <Link
-                  href={`/project-details2/project-details2-dark`}
+                  href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                 >
                   <a className="imago wow">
-                    <Image src="/img/portfolio/cr/3.jpg" alt="image" layout='fill'/>
+                    <Image src="/img/catalog/cr/3.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
@@ -93,10 +93,10 @@ const WorksStyle3 = () => {
             >
               <div className="item-img">
                 <Link
-                  href={`/project-details2/project-details2-dark`}
+                  href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                 >
                   <a className="imago wow">
-                    <Image src="/img/portfolio/cr/4.jpg" alt="image" layout='fill'/>
+                    <Image src="/img/catalog/cr/4.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>

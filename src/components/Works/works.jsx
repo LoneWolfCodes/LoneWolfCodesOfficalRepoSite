@@ -87,7 +87,7 @@ const Works = () => {
                           </h6>
                           <h4>
                             <Link
-                              href={`/LoneWolfCodes/Process-dark`}
+                              href={`/lonewolvesdigital/process-dark`}
                             >
                               {item.secTex}
                             </Link>

@@ -11,13 +11,13 @@ const PagesHeader = () => {
           <div className="col-lg-10">
             <div className="cont mt-100 mb-50 text-center">
               <h1 className="color-font fw-700">
-              Let’s talk about Lone Wolf Codes. 
+              Let’s talk about Lone Wolves Digital. 
              </h1>
             </div>
           </div>
           <div className="col-lg-10">
             <div className="img row justify-content-center">
-              <Image src="/img/slid/marvin-meyer-SYTO3xs06fU-unsplash-min-min.jpg" alt=""
+              <Image src="/img/slid/marvin-meyer-SYTO3xs06fU-unsplash.jpg" alt=""
                   width={1000}
                   height={500} />
             </div>

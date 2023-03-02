@@ -10,7 +10,7 @@ const NextProject = () => {
               <div
                 className="bg-img valign"
                 style={{
-                  backgroundImage: "url(/img/portfolio/project2/6.jpg)",
+                  backgroundImage: "url(/img/catalog/manny-pantoja-P2-4kxFhvCQ-unsplash.jpg)",
                 }}
                 data-overlay-dark="4"
               >

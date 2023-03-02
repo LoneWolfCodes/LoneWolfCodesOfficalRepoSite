@@ -12,7 +12,7 @@ const WorksStyle5 = () => {
     }, 1000);
   }, []);
   return (
-    <section className="portfolio po-arch section-padding pb-70" id="po-arch">
+    <section className="catalog po-arch section-padding pb-70" id="po-arch">
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-lg-8 col-md-10">
@@ -43,7 +43,7 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
+                <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                   <a className="imago wow">
                     <Image src="/img/arch/work/1.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
@@ -64,7 +64,7 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
+                <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                   <a className="imago wow">
                     <Image src="/img/arch/work/2.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
@@ -85,7 +85,7 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
+                <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                   <a className="imago wow">
                     <Image src="/img/arch/work/5.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
@@ -106,7 +106,7 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
+                <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                   <a className="imago wow">
                     <Image src="/img/arch/work/3.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
@@ -127,7 +127,7 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
+                <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                   <a className="imago wow">
                     <Image src="/img/arch/work/4.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>
@@ -148,7 +148,7 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
+                <Link href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}>
                   <a className="imago wow">
                     <Image src="/img/arch/work/6.jpg" alt="image" layout='fill'/>
                     <div className="item-img-overlay"></div>

@@ -31,7 +31,7 @@ const Works3 = () => {
                 Frequently Asked Questions
                 </h6>
                 <h3 className="wow color-font center">
-                My most common questions. <br /> &amp; <br /> My most common answers.
+                Our most common questions. <br /> &amp; <br /> Our most common answers.
                 </h3>
               </div>
             </div>
@@ -47,8 +47,8 @@ const Works3 = () => {
                   slidesPerView={2}
                   centeredSlides={true}
                   autoplay={{
-                    delay: 2500,
-                    disableOnInteraction: false,
+                    delay: 25000,
+                    disableOnInteraction: true,
                   }}
                   loop={true}
                   navigation={{
@@ -97,8 +97,8 @@ const Works3 = () => {
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
                           <Image 
-        width={600}
-        height={400}src="/img/portfolio/pikwizard-coffee-writing-computer-blogging.jpg" alt="" />
+                          width={600}
+                          height={400}src="/img/catalog/pexels-monstera-9487623.jpg" alt="" />
                         </span>
                       </div>
                       <div className="cont ">
@@ -106,7 +106,7 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            What does Lone Wolf Codes do? (1/10)
+                            What does Lone Wolves Digital do? (1/10)
                           </Link>
                         </h3>
                         <br/>
@@ -114,14 +114,13 @@ const Works3 = () => {
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
-                        <br/>
+                        <br/>                                                                                  
                         <h5>
                           <Link
-                            href={`/project-details2/project-details2-dark`}
+                            href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                           >
-                            Lone Wolf Codes is primarily a Web Development company that focusses on creating premium websites, at low cost to the consumer.                           </Link>
+                            Lone Wolves Digital provides digital products and services for personal and business use at, a low cost to the consumer. 
+                            </Link>
                         </h5>
                       </div>
                     </div>
@@ -132,8 +131,8 @@ const Works3 = () => {
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
                           <Image 
-        width={600}
-        height={400}src="/img/portfolio/pikwizard-smiling-senior-man-paying-bills-online-on-laptop-in-kitchen.jpg" alt=""/>
+                        width={600}
+                        height={400}src="/img/catalog/pikwizard-smiling-senior-man-paying-bills-online-on-laptop-in-kitchen.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont">
@@ -141,24 +140,19 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                           How is my site so cheap? (2/10)
+                           How does Lone Wolves Digital cut costs without, cutting quality? (2/10)
                           </Link>
                         </h3>
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
+                        <br/>                                                                                                        
                         <h5>
                           <Link
-                            href={`/project-details2/project-details2-dark`}
+                            href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                           >
-                            By cutting down on cost such as large office building and supplies, Lone Wolf codes can offer much cheaper web development without compromising on costs.                          </Link>
+                            By cutting down on costs such as large office buildings and supplies, Lone Wolves Digital can offer and negotiate a much better deal without compromising on costs.
+                          </Link>
                         </h5>
                       </div>
                     </div>
@@ -169,8 +163,8 @@ const Works3 = () => {
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
                           <Image 
-        width={600}
-        height={400}src="/img/portfolio/pikwizard-hand-using-smartphone-with-graphics.jpg" alt=""/>
+                         width={600}
+                         height={400}src="/img/catalog/pikwizard-hand-using-smartphone-with-graphics.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont grey-font">
@@ -187,15 +181,14 @@ const Works3 = () => {
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <h5>
+                        <br/>   
+                        <br/>     
+                             
+                         <h5>
                           <Link
-                            href={`/project-details2/project-details2-dark`}
+                            href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                           >
-                            Checkout at the &quot;Prices&quot; pages that will lead you to a form, once filled out, download the contract and send it back signed.
+                            Check out the &quot;Prices&quot; pages that will lead you to a form, once filled out, we will send you the contract and send it back signed.
                           </Link>
                         </h5>
                       </div>
@@ -207,8 +200,8 @@ const Works3 = () => {
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
                           <Image 
-        width={600}
-        height={400}src="/img/portfolio/pikwizard-city-urban-landscape.jpg" alt=""/>
+                          width={600}
+                          height={400}src="/img/catalog/pikwizard-city-urban-landscape.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont ">
@@ -216,22 +209,20 @@ const Works3 = () => {
                           <Link
                             href={`/works3/works3-dark`}
                           >
-                            Where is the Lone Wolf Codes office?(4/10)
+                            Where is the Lone Wolf Digital&aposs office?(4/10)
                           </Link>
                         </h3>
                         <br/>
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>             
+                        <br/>     
+                        <br/>     
                         <h5>
                           <Link
-                            href={`/project-details2/project-details2-dark`}
+                            href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                           >
-                            Being a freelancer I work from home, you can book a video call meeting or I can come see you in person if needs be. There is no head office.
+                            Being a freelancer, I work from home, you can book a video call meeting or, I can come to see you in person if needs be. There is no head office.
                           </Link>
                         </h5>
                       </div>
@@ -243,8 +234,8 @@ const Works3 = () => {
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
                           <Image 
-        width={600}
-        height={400}src="/img/portfolio/pikwizard-happy-diverse-female-creative-colleagues-holding-documents,-cup-of-coffee-and-talking-in-elevator.jpg" alt=""/>
+                         width={600}
+                         height={400}src="/img/catalog/pikwizard-happy-diverse-female-creative-colleagues-holding-documents,-cup-of-coffee-and-talking-in-elevator.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont">
@@ -261,15 +252,12 @@ const Works3 = () => {
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
+                     
                         <h5>
                           <Link
-                            href={`/project-details2/project-details2-dark`}
+                            href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                           >
-                            You don&apos;t, but I do! If you need or want any changes made, please kindly communicate it in writing via email.
+                           You don&apos;t, but I do! If you need or want any changes made, please kindly communicate them in writing via email.
                           </Link>
                         </h5>
                       </div>
@@ -281,8 +269,8 @@ const Works3 = () => {
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
                           <Image 
-        width={600}
-        height={400}src="/img/portfolio/pikwizard-customer-service-executive-working.jpg" alt=""/>
+                          width={600}
+                          height={400}src="/img/catalog/pikwizard-customer-service-executive-working.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont">
@@ -299,11 +287,9 @@ const Works3 = () => {
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
                         <h5>
                           <Link
-                            href={`/project-details2/project-details2-dark`}
+                            href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                           >
                             Please feel free to contact me directly by email or by phone. See all contact info in the footer.
                           </Link>
@@ -318,8 +304,8 @@ const Works3 = () => {
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
                           <Image 
-        width={600}
-        height={400}src="/img/portfolio/pikwizard-alarm-clock.jpeg" alt=""/>
+                          width={600}
+                          height={400}src="/img/catalog/pikwizard-alarm-clock.jpeg" alt=""/>
                         </span>
                       </div>
                       <div className="cont">
@@ -336,13 +322,11 @@ const Works3 = () => {
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
                         <h5>
                           <Link
-                            href={`/project-details2/project-details2-dark`}
+                            href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                           >
-                             Depending on the package, that you have selected. It can take 1 to 3 months to complete.
+                             Depending on your project. It can take 1 hour or 1 year to complete. We do ask for at least 24 hours.
                           </Link>
                         </h5>
                       </div>
@@ -355,8 +339,8 @@ const Works3 = () => {
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
                           <Image 
-        width={600}
-        height={400}src="/img/portfolio/pikwizard-businessman-showing-project-plan-on-laptop-to-multiracial-male-and-female-colleagues-in-office.jpg" alt=""/>
+                        width={600}
+                        height={400}src="/img/catalog/pikwizard-businessman-showing-project-plan-on-laptop-to-multiracial-male-and-female-colleagues-in-office.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont">
@@ -373,13 +357,11 @@ const Works3 = () => {
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
                         <h5>
                           <Link
-                            href={`/project-details2/project-details2-dark`}
+                            href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                           >
-                            I will receive an email request, from which I will check to see if you downloaded and signed the contract. From there I will sign and begin the project.
+                            Lone Wolves Digital will receive an email request, from which we will check to see if you downloaded and signed the contract. From there I will sign and begin the project.
                           </Link>
                         </h5>
                       </div>
@@ -392,8 +374,8 @@ const Works3 = () => {
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
                           <Image 
-        width={600}
-        height={400}src="/img/portfolio/pikwizard-man-using-smart-watch-for-express-pay.jpg" alt=""/>
+                          width={600}
+                          height={400}src="/img/catalog/pikwizard-man-using-smart-watch-for-express-pay.jpg" alt=""/>
                         </span>
                       </div>
                       <div className="cont">
@@ -410,15 +392,14 @@ const Works3 = () => {
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
+                        <br/>               
+                        <br/>               
                         <h5>
                           <Link
-                            href={`/project-details2/project-details2-dark`}
+                            href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                           >
-                           You will be charged once off for the development of the website, of which you will own forever and a monthly fee for services thereafter.                           </Link>
+                           Depending on the nature of our contract, you will be charged a once-off or a monthly fee for digital products and or services thereafter.
+                           </Link>
                         </h5>
                       </div>
                     </div>
@@ -430,8 +411,8 @@ const Works3 = () => {
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
                           <Image 
-        width={600}
-        height={400}src="/img/portfolio/6048119cc.jpg" alt=""/>
+                          width={600}
+                          height={400}src="/img/catalog/6048119cc.jpg" alt=""/>
                         </span>
                       </div> 
                       <div className="cont">
@@ -447,15 +428,14 @@ const Works3 = () => {
                         <br/>
                         <br/>
                         <br/>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <br/>
+                        <br/>     
+                        <br/>                                         
+
                         <h5>
                           <Link
-                            href={`/project-details2/project-details2-dark`}
+                            href={`/project-details2-dark-dark/project-details2-dark-dark-dark`}
                           >
-                            At the moment bank transfers, I am looking into other payment options.
+                            At the moment bank transfers, we are looking into other payment options.
                           </Link>
                         </h5>
                       </div>

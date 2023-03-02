@@ -1,67 +1,58 @@
 {
   "id": 1,
-  "title": { "small": "art & illustration", "big": "Inspiring new space." },
-  "clientURLLink": "#",
-  "projectHeaderImage": "/img/portfolio/project2/bg.jpg",
+  "title": { "big": "Catagory name", "small": "by Lone Wolves Digital" },
+  "clientURLLink": "https://form.jotform.com/230592802711552",
+  "projectHeaderImage": "/img/catalog/woman-4702060_1920.jpg",
   "videoLink": "https://vimeo.com/127203262",
-  "clientURLName": "Envato.com",
-  "date": "6 August 2022",
-  "categories": [
+  "requestURL": "Click here",
+  "type": "Product/Service",
+  "category": [
     {
       "id": 1,
-      "name": "Web Design",
+      "name": "Category 1",
       "link": "#"
     },
     {
       "id": 2,
-      "name": "WordPress",
+      "name": "Category 2",
       "link": "#"
     }
   ],
   "tags": [
     {
       "id": 1,
-      "name": "Minimal",
-      "link": "#"
-    },
-    {
-      "id": 2,
-      "name": "Modern",
-      "link": "#"
-    },
-    {
-      "id": 3,
-      "name": "Design",
+      "name": "00",
       "link": "#"
     }
+    
   ],
   "intro": {
     "content": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part.",
     "spmList": [
       {
         "id": 1,
-        "name": "Aenean sollicitudin"
+        "name": "Tag1"
       },
       {
         "id": 2,
-        "name": "lorem quis bibendum auctor"
+        "name": "Tag2"
       },
       {
         "id": 31,
-        "name": "nisi elit conseq uat ipsum"
+        "name": "Tag3"
       },
       {
         "id": 4,
-        "name": "nec sagittis sem nibh id elit"
+        "name": "Tag1"
       }
     ]
   },
   "gallery": [
-    "/img/portfolio/project2/1.jpg",
-    "/img/portfolio/project2/2.jpg",
-    "/img/portfolio/project2/3.jpg",
-    "/img/portfolio/project2/5.jpg",
-    "/img/portfolio/project2/7.jpg"
+    "/img/catalog/catagories/good-faces-BWMxkGvbd_Y-unsplash.jpg",
+    "/img/catalog/catagories/good-faces-gy5SlRW9OGA-unsplash.jpg",
+    "/img/catalog/catagories/hourglass-2910951_1920.jpg",
+    "/img/catalog/catagories/manny-pantoja-P2-4kxFhvCQ-unsplash.jpg",
+    "/img/catalog/catagories/woman-4702060_1920.jpg"
   ],
   "description": {
     "content": "We are a Creative Agency & Startup Studio that provides Digital Products and Services turns to focus on client success. We specialize in user interface design, including front-end development which we consider to be an integral part."

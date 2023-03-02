@@ -16,7 +16,7 @@ const Numbers = () => {
             <div className="col-lg-8 col-md-10">
               <div className="sec-head  text-center">
                 <h6 className="wow fadeIn" data-wow-delay=".5s">
-                  MY 2022 GOALS!
+                  Lone Wolves Digital 2023 GOALS!
                 </h6>
                 <h3 className="wow color-font">
                 If your dreams don&apos;t scare you, the&apos;re not big enough!

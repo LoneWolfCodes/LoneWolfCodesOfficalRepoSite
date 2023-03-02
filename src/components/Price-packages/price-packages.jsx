@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-scroll";
 
-const PricePackages = ({ bgGray }) => {
+const pricePackages = ({ bgGray }) => {
   return (
     <section className={`app-price section-padding ${bgGray ? "bg-gray" : ""}`}>
       <div className="container">
@@ -9,7 +9,7 @@ const PricePackages = ({ bgGray }) => {
           <div className="col-lg-8 col-md-10">
             <div className="s-head text-center mb-80">
               <h6 className="stit mb-30">
-                <span className="left"></span> Pricing Package
+                <span className="left"></span> Quotes. 
                 <span className="right"></span>
               </h6>
               <h2>Popular Pricing Package for Design Mobile Application </h2>
@@ -219,4 +219,4 @@ const PricePackages = ({ bgGray }) => {
   );
 };
 
-export default PricePackages;
+export default pricePackages;

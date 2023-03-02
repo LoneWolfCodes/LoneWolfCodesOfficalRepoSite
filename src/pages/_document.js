@@ -19,7 +19,7 @@ class MyDocument extends Document {
           />
           <meta
             name="description"
-            content="Made by Caleb Mutombo@LoneWolfCodes"
+            content="Made by Caleb Mutombo@lonewolvesdigital"
           />
           <meta name="author" content="" />
           <link rel="shortcut icon" href="/img/logo.png" />

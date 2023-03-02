@@ -75,7 +75,7 @@ const ShopSidebar = () => {
 
         <div className="col-lg-12 col-md-6">
           <div className="box filter-price mb-30">
-            <h6 className="title mb-30">Filter By Price</h6>
+            <h6 className="title mb-30">Filter By price</h6>
 
             <div className="range-slider mb-30">
               <div id="tooltip" ref={tooltipRef}></div>

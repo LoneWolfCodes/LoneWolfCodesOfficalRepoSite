@@ -17,8 +17,7 @@ const FreelancreIntro = () => {
           <div className="col-lg-8 valign">
             <div className="cont">
               <h6 className="cd-headline clip">
-              Hello, My name is Caleb Mutombo founder and CEO of Lone Wolf Codes. I am a freelance web developer based in Cape Town South Africa.
-              With no one else on my team, you can call me the Lone Wolf Coder, I might be one Lone Wolf, but once I collaborate with others, “I” becomes “we” and when we collaborate, we bring you…<br/>
+              Hello, my name is Caleb Mutombo founder and CEO of Lone Wolves Digital. I was a freelance web and app developer based in Cape Town South Africa. When I began this company I called it Lone Wolf Codes, with no one else on my team, I called myself the Lone Wolf Coder, I might have been one Lone Wolf, but now that  I collaborate with others alike, “I” becomes “we” and “we” collaborate to bring you a variety of...<br/>
                 <span
                   style={{ fontSize: "35px", lineHeight: "49px" }}
                   className="cd-words-wrapper"
@@ -27,9 +26,9 @@ const FreelancreIntro = () => {
                     options={{
                       wrapperClassName: "color-font fw-600",
                       strings: [
-                        "E-commerce sites",
-                        "Landing Pages",
-                        "Portfolio pages",
+                        "Digital",
+                        "Digital products",
+                        "Digital products & services",
                       ],
                       autoStart: true,
                       loop: true,
@@ -53,7 +52,7 @@ const FreelancreIntro = () => {
             <ul className="flex">
               <li className="flex">
                 <div className="numb valign">
-                  <h3>3</h3>
+                  <h3>5</h3>
                 </div>
                 <div className="text valign">
                   <p>
@@ -64,22 +63,22 @@ const FreelancreIntro = () => {
 
               <li className="flex">
                 <div className="numb valign">
-                  <h3>16+</h3>
+                  <h3>37+</h3>
                 </div>
                 <div className="text valign">
                   <p>
-                    Projects Completed <br /> In College
+                    Projects Completed <br /> Since College
                   </p>
                 </div>
               </li>
 
               <li className="mail-us">
-                <a href="mailto:your@email.com?subject=Subject">
+                <a href="mailto:calebmutombo@lonewolvesdigital.com?subject= New demand!">
                   <div className="flex">
                     <div className="text valign">
                       <div className="full-width">
                         <p>Get In Touch</p>
-                        <h6>lonewolfcodes56@gmail.com</h6>
+                        <h6>calebmutombo@lonewolvesdigital.com</h6>
                       </div>
                     </div>
                     <div className="mail-icon">

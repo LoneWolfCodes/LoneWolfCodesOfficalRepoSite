@@ -20,16 +20,16 @@ const SkillsRequired = () => {
           <div className="col-lg-5 valign">
             <div className="content wow fadeInUp md-mb30" data-wow-delay=".5s">
               <div className="sub-title">
-                <h6>REQUIRED SKILLS</h6>
+                <h6>OUR SKILLS</h6>
                 <span></span>
                 <span></span>
                 <span></span>
               </div>
-              <h3 className="co-tit mb-15">
-              To go fast one must go alone, to go far we must go together! 
+              <h3 className="co-tit mb-15 ">
+              To go fast one must go alone, to go far we must go together! Through collaboration, Lone Wolves Digital has managed to diversify the digital products and services offered here at Lone Wolves Digital! 
                </h3>
               <p>
-              Through feature collaboration, I will manage to diversify the services offered here at Lone Wolf Codes. Here are the skill sets needed.
+              Through collaboration, Lone Wolves Digital has manage to diversify the digital products and services offered here. This allows you to outsource your entire workforce! Here is what Lone Wolves Digital’s team is Made of…
               </p>
               <div className="skills-box mt-40">
                 {teamsDate.skills.map((skill) => (
@@ -87,6 +87,92 @@ const SkillsRequired = () => {
                       </div>
                     ))}
                   </div>
+                </div>
+                <div className="col-sm-6 toleft valign">
+                  <div className="full-width text-left">
+                    {teamsDate.teams.slice(4, 6).map((team, index) => (
+                      <div key={team.id}>
+                        <div
+                          className={`img sizxl ${
+                            index + 1 != teamsDate.teams.slice(2, 4).length
+                              ? "mb-30"
+                              : null
+                          }`}
+                          data-tooltip-tit={team.title}
+                          data-tooltip-sub={team.sub}
+                        >
+                          <Image src={team.image} alt="" className="imago wow" 
+                          width={300}
+                          height={400}/>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+                <div className="col-sm-6 toleft valign">
+                  <div className="full-width text-left">
+                    {teamsDate.teams.slice(6, 8).map((team, index) => (
+                      <div key={team.id}>
+                        <div
+                          className={`img sizxl ${
+                            index + 1 != teamsDate.teams.slice(2, 4).length
+                              ? "mb-30"
+                              : null
+                          }`}
+                          data-tooltip-tit={team.title}
+                          data-tooltip-sub={team.sub}
+                        >
+                          <Image src={team.image} alt="" className="imago wow" 
+                          width={300}
+                          height={400}/>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+                <div className="col-sm-6 toleft valign">
+                  <div className="full-width text-left">
+                    {teamsDate.teams.slice(8, 10).map((team, index) => (
+                      <div key={team.id}>
+                        <div
+                          className={`img sizxl ${
+                            index + 1 != teamsDate.teams.slice(2, 4).length
+                              ? "mb-30"
+                              : null
+                          }`}
+                          data-tooltip-tit={team.title}
+                          data-tooltip-sub={team.sub}
+                        >
+                          <Image src={team.image} alt="" className="imago wow" 
+                          width={300}
+                          height={400}/>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                  
+                </div>
+                <div className="col-sm-6 toleft valign">
+                  <div className="full-width text-left">
+                    {teamsDate.teams.slice(10, 12).map((team, index) => (
+                      <div key={team.id}>
+                        <div
+                          className={`img sizxl ${
+                            index + 1 != teamsDate.teams.slice(2, 4).length
+                              ? "mb-30"
+                              : null
+                          }`}
+                          data-tooltip-tit={team.title}
+                          data-tooltip-sub={team.sub}
+                        >
+                          <Image src={team.image} alt="" className="imago wow" 
+                          width={300}
+                          height={400}/>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                  
                 </div>
               </div>
             </div>

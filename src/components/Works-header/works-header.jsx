@@ -17,12 +17,12 @@ const WorksHeader = ({ sliderRef }) => {
               <div className="parlx text-center">
                 <h1 className="color-font">FEAST YOUR EYES</h1>
                 <p>
-                Creativity is simply the art of connecting ideas in ways never done before, and this involves breaking out of expected & repetitive patterns to look at things differently than ever before.
+                Welcome to the one-stop shop for all digital products and services, there is no need to go to multiple places for multiple digital products and services.  
                 </p>
               </div>
 
               <div className="bactxt custom-font valign">
-                <span className="full-width">PORTFOLIO</span>
+                <span className="full-width">CATALOG</span>
               </div>
             </div>
           </div>
