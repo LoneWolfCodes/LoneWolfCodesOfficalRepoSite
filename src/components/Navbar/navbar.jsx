@@ -103,7 +103,7 @@ const Navbar = ({ lr, nr, theme }) => {
             </li>
 
             <li className="nav-item">
-              <Link href="/price/price-details-dark">
+              <Link  href={`/price/price-details-dark`}>
                 <a className="nav-link">Price</a>
               </Link>
             </li>
