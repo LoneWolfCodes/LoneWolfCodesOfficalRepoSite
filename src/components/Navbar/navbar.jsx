@@ -18,12 +18,12 @@ const Navbar = ({ lr, nr, theme }) => {
           <a className="logo">
             {theme ? (
               theme === "themeL" ? (
-                <Image ref={lr} src={appData.darkLogo} alt="logo"  layout="responsive" width={500} height={500}/>
+                <img ref={lr} src={appData.darkLogo} alt="logo" />
               ) : (
-                <Image ref={lr} src={appData.lightLogo} alt="logo"  layout="responsive" width={500} height={500}/>
+                <img ref={lr} src={appData.lightLogo} alt="logo" />
               )
             ) : (
-              <Image ref={lr} src={appData.lightLogo} alt="logo"  layout="responsive" width={500} height={500}/>
+              <img ref={lr} src={appData.lightLogo} alt="logo" />
             )}
           </a>
         </Link>

@@ -4,22 +4,13 @@ import Head from "next/head";
 import DarkTheme from "../../layouts/Dark";
 import PageHeader2 from "../../components/Page-header2/page-header2";
 
-import NavbarMobileApp from "../../components/Navbar-mobile-app/navbar-mobile-app";
 import Navbar from "../../components/Navbar/navbar";
 import Intro6 from "../../components/Intro6/intro6";
-import Clients3 from "../../components/Clients3/clients3";
-import Services7 from "../../components/Services7/services7";
-import Services8 from "../../components/Services8/services8";
-import Screenshots from "../../components/Screenshots/screenshots";
 import Progress from "../../components/Progress/progress";
 import VideoWithTeam from "../../components/Video-with-team/video-with-team";
 // import Questionair from "../../components/price-packages/price-packages";
 import Questionair2 from "../../components/price-packages2/price-packages2";
 
-import Testimonials from "../../components/Testimonials/testimonials";
-import DownloadApp from "../../components/Download-app/download-app";
-import Blogs2 from "../../components/Blogs2/blogs2";
-import MobileAppPricingPlanDark from "./pricing-plan-dark";
 import Footer2 from "../../components/Footer2/footer2";
 
 
