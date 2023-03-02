@@ -13,7 +13,7 @@ import Services8 from "../../components/Services8/services8";
 import Screenshots from "../../components/Screenshots/screenshots";
 import Progress from "../../components/Progress/progress";
 import VideoWithTeam from "../../components/Video-with-team/video-with-team";
-import Questionair from "../../components/price-packages/price-packages";
+// import Questionair from "../../components/price-packages/price-packages";
 import Questionair2 from "../../components/price-packages2/price-packages2";
 
 import Testimonials from "../../components/Testimonials/testimonials";

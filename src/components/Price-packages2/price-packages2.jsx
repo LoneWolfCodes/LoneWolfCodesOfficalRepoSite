@@ -1,6 +1,6 @@
 import React from "react";
 
-const pricePackages2 = () => {
+const pricepackages2 = () => {
   return (
     <section className="app-price section-padding">
       <div className="container">
@@ -405,4 +405,4 @@ const pricePackages2 = () => {
   );
 };
 
-export default pricePackages2;
+export default pricepackages2;
